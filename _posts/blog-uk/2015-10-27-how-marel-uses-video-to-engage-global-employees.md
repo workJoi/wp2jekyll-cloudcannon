@@ -25,7 +25,9 @@ featured-image: >-
 ---
 
 
-***With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication.*** &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w6jVAAuOBJk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p class="editable"&gt; Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).&lt;/p&gt;
+***With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication.*** 
+
+<p class="editable"> Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).</p>
 
 With rapid changes in technology and regular updates to the product line, Marel needed a better way to share important information with its staff around the world. They decided to produce a monthly video broadcast called Marel Live.
 
