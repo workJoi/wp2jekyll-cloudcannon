@@ -35,7 +35,7 @@ The Marel marketing team researched video production tools and found NewTek’s 
 
 Haraldur Gunnlaugsson, the host of Marel Live, concurs. “We wanted to do this properly and invest in good equipment that would do the job for us. With TriCaster we have the ability to produce and live stream high quality, multi-camera video and audio programming, in a very short time, on a very small budget.”
 
-![](/uploads/versions/camera-position-2-behind-the-cam---x----690-518x---.jpg)
+![](/uploads/versions/camera-position-2-behind-the-cam---x----690-518x---.jpg){: .editable }
 
 ![MAREL-OSCAR-MASTER-Sub.33](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .aligncenter.fullwidth}
 
