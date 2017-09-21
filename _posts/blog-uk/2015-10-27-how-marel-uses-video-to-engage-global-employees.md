@@ -35,7 +35,7 @@ The Marel marketing team researched video production tools and found NewTek’s 
 
 Haraldur Gunnlaugsson, the host of Marel Live, concurs. “We wanted to do this properly and invest in good equipment that would do the job for us. With TriCaster we have the ability to produce and live stream high quality, multi-camera video and audio programming, in a very short time, on a very small budget.”
 
-![MAREL-OSCAR-MASTER-Sub.33][1]{: .aligncenter  .fullwidth}
+![MAREL-OSCAR-MASTER-Sub.33][1]{: .aligncenter  .fullwidth .editable }
 
 The Copenhagen demo centre is one of the many locations Marel broadcast from on a regular basis. The set-up features four cameras, a green screen, lights, monitors and microphones as well as the TriCaster – yet everything fits into a single flight case that can be easily transported to different offices to record meetings or presentations for later broadcast. “To be able to set up a complete TV station in half an hour is pretty good!” says Oskar Sveinsson, Producer of Marel Live. “In particular, the green screen functionally is unbelievable – we are able to do live green screen recordings and easily add in a suitable background with no post production required, it saves so much time.”
 
