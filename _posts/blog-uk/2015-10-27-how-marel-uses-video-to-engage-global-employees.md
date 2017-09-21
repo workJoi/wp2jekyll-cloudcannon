@@ -1,31 +1,31 @@
 ---
-layout: "post"
-title: "How Marel Uses Video To Engage Global Employees"
+layout: post
+title: How Marel Uses Video To Engage Global Employees
 published: true
-author: "jjohnston"
+author: jjohnston
 comments: false
-post_excerpt: null
-date: "2015-10-27 12:10:49"
+post_excerpt:
+date: '2015-10-27 12:10:49'
 tags:
-    - "Corporate Meetings"
-    - "Corporate Production"
-    - "Corporate Training"
-    - "Corporate Video"
-    - "Green Screen"
-    - "TriCaster"
-    - "Virtual Sets"
-blog: "http://blog.uk.newtek.com"
+  - Corporate Meetings
+  - Corporate Production
+  - Corporate Training
+  - Corporate Video
+  - Green Screen
+  - TriCaster
+  - Virtual Sets
+blog: 'http://blog.uk.newtek.com'
 categories:
-  - "corporate-video"
-  - "customer-stories"
-  - "tricaster"
-permalink: "/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/"
-featured-image: "ttps://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.09.jpg"
+  - corporate-video
+  - customer-stories
+  - tricaster
+permalink: /blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/
+featured-image: >-
+  ttps://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.09.jpg
 ---
-**_With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication._**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/w6jVAAuOBJk" frameborder="0" allowfullscreen></iframe>
-<p class="editable">
-Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).</p>
+
+
+***With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication.*** &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/w6jVAAuOBJk" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt; &lt;p class="editable"&gt; Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).&lt;/p&gt;
 
 With rapid changes in technology and regular updates to the product line, Marel needed a better way to share important information with its staff around the world. They decided to produce a monthly video broadcast called Marel Live.
 
@@ -35,7 +35,9 @@ The Marel marketing team researched video production tools and found NewTek’s 
 
 Haraldur Gunnlaugsson, the host of Marel Live, concurs. “We wanted to do this properly and invest in good equipment that would do the job for us. With TriCaster we have the ability to produce and live stream high quality, multi-camera video and audio programming, in a very short time, on a very small budget.”
 
-![MAREL-OSCAR-MASTER-Sub.33][1]{: .aligncenter  .fullwidth .editable }
+![](/uploads/versions/camera-position-2-behind-the-cam---x----690-518x---.jpg)
+
+![MAREL-OSCAR-MASTER-Sub.33](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .aligncenter.fullwidth}
 
 The Copenhagen demo centre is one of the many locations Marel broadcast from on a regular basis. The set-up features four cameras, a green screen, lights, monitors and microphones as well as the TriCaster – yet everything fits into a single flight case that can be easily transported to different offices to record meetings or presentations for later broadcast. “To be able to set up a complete TV station in half an hour is pretty good!” says Oskar Sveinsson, Producer of Marel Live. “In particular, the green screen functionally is unbelievable – we are able to do live green screen recordings and easily add in a suitable background with no post production required, it saves so much time.”
 
@@ -47,22 +49,14 @@ In addition to these regular monthly shows, the biannual company meetings are al
 
 He also believes that using video in this way gives the company a competitive edge. “We have more educated people out in the field, they know more about what we do and are more aware of the solutions across our whole portfolio,” he says. “The investment in professional multi-camera video technology has been really good for us – it has shown us that connecting with people is really important to make everyone feel more involved.”
 
-[
-![Screenshot-2015-06-25-14.49.39 (1)][2]][3]{: .aligncenter .size-full  .fullwidth}
+[![Screenshot-2015-06-25-14.49.39 (1)](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/Screenshot-2015-06-25-14.49.39-1.png)](http://pages.newtek.com/6-Videos-You-Should-Be-Producing.html){: .aligncenter.size-full.fullwidth}
 
-**Read More Related Articles: [Corporate Customers][4]**
+**Read More Related Articles: [Corporate Customers](http://blog.newtek.com/category/corporate-video/)**
 
 **Learn More About Video for Corporate Communications:**
 
-**[US: Corporate Video Solutions][5]**
+**[US: Corporate Video Solutions](http://www.newtek.com/solutions/enterprise.html)**
 
 **To learn which model TriCaster will fit your needs:**
 
-**[English: Which TriCaster is Right For You?][6]**
-
- [1]: https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg
- [2]: https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/Screenshot-2015-06-25-14.49.39-1.png
- [3]: http://pages.newtek.com/6-Videos-You-Should-Be-Producing.html
- [4]: http://blog.newtek.com/category/corporate-video/
- [5]: http://www.newtek.com/solutions/enterprise.html
- [6]: http://pages.newtek.com/which-tricaster.html
+**[English: Which TriCaster is Right For You?](http://pages.newtek.com/which-tricaster.html)**
