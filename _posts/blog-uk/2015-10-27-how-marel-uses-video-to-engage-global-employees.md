@@ -7,22 +7,20 @@ comments: false
 post_excerpt: null
 date: "2015-10-27 12:10:49"
 tags:
-  - "Corporate Meetings"
-  - "Corporate Production"
-  - "Corporate Training"
-  - "Corporate Video"
-  - "Green Screen"
-  - "TriCaster"
-  - "Virtual Sets"
+    - "Corporate Meetings"
+    - "Corporate Production"
+    - "Corporate Training"
+    - "Corporate Video"
+    - "Green Screen"
+    - "TriCaster"
+    - "Virtual Sets"
 blog: "http://blog.uk.newtek.com"
 categories:
   - "corporate-video"
   - "customer-stories"
   - "tricaster"
 permalink: "/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/"
-image:
-  feature: >
-    https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.09.jpg
+featured-image: "ttps://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.09.jpg"
 ---
 **_With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication._**
 
