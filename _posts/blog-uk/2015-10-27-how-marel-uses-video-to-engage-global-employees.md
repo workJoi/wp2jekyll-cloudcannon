@@ -23,7 +23,7 @@ permalink: "/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/"
 featured-image: "ttps://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.09.jpg"
 ---
 **_With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication._**
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/w6jVAAuOBJk" frameborder="0" allowfullscreen></iframe>
 <p class="editable">
 Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).</p>
 
