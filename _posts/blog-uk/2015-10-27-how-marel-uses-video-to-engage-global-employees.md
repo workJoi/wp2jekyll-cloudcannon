@@ -29,6 +29,7 @@ _options:
     height: 120
     resize_style: "cover"
     mime_type: "image/png"
+extra_styles_path: /styles/screen.css
 ---
 
 
