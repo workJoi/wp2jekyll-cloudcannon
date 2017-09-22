@@ -1,5 +1,13 @@
 ---
 layout: basic
+_options:
+  image_path:
+    resize_style: "contain"
+    mime_type: "image/jpeg"
+    expandable: true
+  content:
+    resize_style: "contain"
+    mime_type: "image/png"
 ---
 <link href="https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700" rel="stylesheet">
 <link rel="stylesheet" href="https://www.newtek.com/css/layouts/press-release.css">
