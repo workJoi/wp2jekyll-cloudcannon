@@ -7,7 +7,7 @@ categories: jekyll update
 
 
 <div>
-Hi i'm some text that I want to right justify.{: .right}
+Hi i'm some text that I want to right justify. {: .right}
 </div>
 
 ```
