@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 
 
-<p>Hi i'm some text</p>
+Hi i'm some text
