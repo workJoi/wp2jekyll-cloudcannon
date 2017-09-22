@@ -37,7 +37,7 @@ extra_styles_path: /styles/screen.css
 
 Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).
 
-This is some text I want to right justify.  { .right}
+This is some text I want to right justify.  {: .right}
 
 With rapid changes in technology and regular updates to the product line, Marel needed a better way to share important information with its staff around the world. They decided to produce a monthly video broadcast called Marel Live.
 
