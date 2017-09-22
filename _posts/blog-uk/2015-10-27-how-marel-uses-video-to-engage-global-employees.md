@@ -21,14 +21,14 @@ _options:
   image_path:
     width: 90
     height: 120
-    resize_style: "contain"
-    mime_type: "image/jpeg"
+    resize_style: contain
+    mime_type: image/jpeg
     expandable: true
   content:
     width: 90
     height: 120
-    resize_style: "cover"
-    mime_type: "image/png"
+    resize_style: cover
+    mime_type: image/png
 extra_styles_path: /styles/screen.css
 ---
 
@@ -36,6 +36,8 @@ extra_styles_path: /styles/screen.css
 ***With 4000 employees across 50 locations in 30 countries, how do you keep everyone informed, motivated and feeling like part of the team? For Marel, the answer is professional video communication.***
 
 Marel is the leading global provider of advanced equipment for the food processing industries, providing machinery that does everything from harvesting raw materials to packaging the final product. Headquartered in Iceland, it has offices and subsidiaries in 30 countries, including four demo centres in Copenhagen (Denmark), Boxmeer (Netherlands), Des Moines and Lenexa, (USA).
+
+This is some text I want to right justify.
 
 With rapid changes in technology and regular updates to the product line, Marel needed a better way to share important information with its staff around the world. They decided to produce a monthly video broadcast called Marel Live.
 
@@ -45,7 +47,7 @@ The Marel marketing team researched video production tools and found NewTek’s 
 
 Haraldur Gunnlaugsson, the host of Marel Live, concurs. “We wanted to do this properly and invest in good equipment that would do the job for us. With TriCaster we have the ability to produce and live stream high quality, multi-camera video and audio programming, in a very short time, on a very small budget.”
 
-![MAREL-OSCAR-MASTER-Sub.33](http://blog.uk.newtek.com/wp-content/uploads/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .alignleft.wp-image-1527 style="float:right;"}
+![MAREL-OSCAR-MASTER-Sub.33](http://blog.uk.newtek.com/wp-content/uploads/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .alignleft.wp-image-1527}
 
 ![](/uploads/versions/camera-position-2-behind-the-cam---x----690-518x---.jpg)
 
