@@ -40,3 +40,7 @@ theme: minima
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+_editable_regions:
+  image:
+    url_src: true
