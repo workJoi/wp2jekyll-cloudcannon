@@ -8,4 +8,6 @@ categories: jekyll update
 
 Hi i'm some text
 
-<div>hi there</div>
+```
+hi there
+```
