@@ -1,9 +1,9 @@
 ---
 layout: post
 title: TV Technology Reviews NewTek’s TalkShow VS-100
-date: '2015-04-27 14:31'
+date: 2015-04-27 19:31:00
 author: jjohnston
-comments: true
+comments: false
 categories:
   - broadcast
   - Broadcast - Traditional
@@ -12,7 +12,6 @@ categories:
   - Skype
   - Skype In Media
   - SkypeTX
-  - TalkShow
   - TalkShow
 ---
 
