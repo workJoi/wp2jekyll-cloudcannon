@@ -14,9 +14,17 @@ _options:
 <link rel="stylesheet" href="https://www.newtek.com/css/layouts/press-release.css">
 <link rel="stylesheet" href="https://www.newtek.com/css/layouts/post.css">
 
+{% if page.featured-image %}
+    {% assign image = page.featured-image %}
+{% elsif site.data.feature_images[page.title] %}
+    {% assign image = site.data.feature_images[page.title]['image'] %}
+{% else %}
+    <h2>Unable to find featured image</h2>
+{% endif %}
+
 <style>
     #post-banner {
-        background-image: url({{page.featured-img}});
+        background-image: url({{ image }});
     }
 </style>
 

@@ -2,6 +2,7 @@
 <html>
 
 <head>
+   <link rel="stylesheet" href="/css/cms-style-classes.css" />
     <style>
         #contentwrap {
             background: #ecebeb;
@@ -37,8 +38,8 @@
 <body>
 
     <div id="contentwrap">
-        <div id="content" class="clearfix">
-            <div id="main" class="editable clearfix">
+        <div id="content" class="editable clearfix">
+            <div id="main" class="clearfix">
                 {{content}}
             </div>
         </div>
