@@ -5,7 +5,7 @@ date: 2015-02-26 14:38
 author: Olecoot
 published: true
 permalink: /blog-uk/2015/02/26/show-the-world-by-newtek/
-blog-url: http://blog.uk.newtek.com/blog/2015/02/26/show-the-world-by-newtek/
+_blog-url: http://blog.uk.newtek.com/blog/2015/02/26/show-the-world-by-newtek/
 comments: true
 categories: [3Play, TalkShow, TriCaster]
 tags: [NewTek, Show]

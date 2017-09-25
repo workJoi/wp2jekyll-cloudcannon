@@ -5,7 +5,7 @@ date: 2015-04-27 14:31
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/04/27/tv-technology-reviews-newteks-talkshow-vs-100/
-blog-url: http://blog.uk.newtek.com/blog/2015/04/27/tv-technology-reviews-newteks-talkshow-vs-100/
+_blog-url: http://blog.uk.newtek.com/blog/2015/04/27/tv-technology-reviews-newteks-talkshow-vs-100/
 comments: true
 categories: [Broadcast - Traditional, Broadcast - Web, TalkShow]
 tags: [broadcast, Live Production, Skype, Skype In Media, SkypeTX, TalkShow]

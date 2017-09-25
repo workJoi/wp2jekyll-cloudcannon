@@ -5,7 +5,7 @@ date: 2015-07-30 13:58
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/07/30/quick-tip-encode-media-beforehand/
-blog-url: http://blog.uk.newtek.com/blog/2015/07/30/quick-tip-encode-media-beforehand/
+_blog-url: http://blog.uk.newtek.com/blog/2015/07/30/quick-tip-encode-media-beforehand/
 comments: true
 categories: [Live Production Tips, Sports Production Tips, TriCaster Tips, Video Production Tips]
 tags: [3Play, Live Production, Media Import, Media Player, Production, Quick Tip, Tip, TriCaster, TriCaster Advanced Edition, TriCaster Mini]

@@ -1,17 +1,13 @@
 ---
 layout: basic
 permalink: /home/
+title: Recent Posts
 ---
 <style>
 #content {
     padding: 0;
 }
-#posts h2 {
- font-family: 'Helvetica Neue', 'Lato', Helvetica, Arial, sans-serif;
-     font-weight: 500;
-    margin: 20px;
-    padding: 0;
-}
+
 #posts table {
     width: 100%;
     font-family: 'Helvetica Neue', 'Lato', Helvetica, Arial, sans-serif;
@@ -40,7 +36,6 @@ permalink: /home/
 }
 </style>
 <div id="posts">
-<h2 class="clearfix">Recent Posts</h2>
 <table cellspacing="0" cellpadding="0">
     <tr>
         <th>Title</th>

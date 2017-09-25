@@ -5,7 +5,7 @@ date: 2015-10-02 00:00
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/10/02/how-to-control-your-tricaster-using-a-smart-phone/
-blog-url: http://blog.uk.newtek.com/blog/2015/10/02/how-to-control-your-tricaster-using-a-smart-phone/
+_blog-url: http://blog.uk.newtek.com/blog/2015/10/02/how-to-control-your-tricaster-using-a-smart-phone/
 comments: true
 categories: [Live Production Tips, Sports Production Tips, TalkShow Tips, TriCaster Tips, Video Production Tips]
 tags: [automation, Live Production, Production, Skype, TalkShow, TriCaster]

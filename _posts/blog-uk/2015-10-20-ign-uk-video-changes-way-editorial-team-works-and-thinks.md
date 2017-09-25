@@ -5,7 +5,7 @@ date: 2015-10-20 00:00
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
-blog-url: http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
+_blog-url: http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
 comments: true
 categories: [Broadcast - Web, Customer Stories, TriCaster]
 tags: [Canon XF300, Canon XF305, Ianiro Florescent, IGN.com, TriCaster, Yamaha MG166-c]

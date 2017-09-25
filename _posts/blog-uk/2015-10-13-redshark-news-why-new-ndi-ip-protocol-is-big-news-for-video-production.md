@@ -5,7 +5,7 @@ date: 2015-10-13 00:00
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/10/13/redshark-news-why-new-ndi-ip-protocol-is-big-news-for-video-production/
-blog-url: http://blog.uk.newtek.com/blog/2015/10/13/redshark-news-why-new-ndi-ip-protocol-is-big-news-for-video-production/
+_blog-url: http://blog.uk.newtek.com/blog/2015/10/13/redshark-news-why-new-ndi-ip-protocol-is-big-news-for-video-production/
 comments: true
 categories: [3Play, Broadcast - Traditional, Broadcast - Web, IP Workflow, Live Production, NewTek Developer Network, TriCaster]
 tags: [broadcast, Dave Shapton, IP Workflow, Live Production, Live Streaming, Multi Camera, NDI, RedShark News, TriCaster]

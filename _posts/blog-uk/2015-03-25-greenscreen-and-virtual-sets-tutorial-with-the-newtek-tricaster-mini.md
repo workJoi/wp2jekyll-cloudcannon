@@ -5,7 +5,7 @@ date: 2015-03-25 14:08
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/03/25/greenscreen-and-virtual-sets-tutorial-with-the-newtek-tricaster-mini/
-blog-url: http://blog.uk.newtek.com/blog/2015/03/25/greenscreen-and-virtual-sets-tutorial-with-the-newtek-tricaster-mini/
+_blog-url: http://blog.uk.newtek.com/blog/2015/03/25/greenscreen-and-virtual-sets-tutorial-with-the-newtek-tricaster-mini/
 comments: true
 categories: [TriCaster]
 tags: [Corporate Video, Green Screen, Live Production, Low Cost, TriCaster Mini, Tutorial, Virtual Sets]

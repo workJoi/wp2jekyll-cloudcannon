@@ -5,7 +5,7 @@ date: 2015-10-06 00:00
 author: jjohnston
 published: true
 permalink: /blog-uk/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
-blog-url: http://blog.uk.newtek.com/blog/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
+_blog-url: http://blog.uk.newtek.com/blog/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
 comments: true
 categories: [Broadcast - Web, Customer Stories, Live Production, NewTek Developer Network, Popular Stories, TalkShow, TriCaster]
 tags: [CrossFit, Gregg Glassman, StubHub center, TalkShow, Teradek cube encoder, Zixi Broadcaster]
