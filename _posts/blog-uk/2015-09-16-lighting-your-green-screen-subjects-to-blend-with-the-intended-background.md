@@ -3,7 +3,9 @@ layout: post
 title: "Lighting Your Green Screen Subjects to Blend with the Intended Background"
 date: 2015-09-16 00:18
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
+blog-url: http://blog.uk.newtek.com/blog/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
 comments: true
 categories: [TriCaster Tips, Virtual Sets]
 tags: [Green Screen, Lighting, Tip, TriCaster, Virtual Sets]

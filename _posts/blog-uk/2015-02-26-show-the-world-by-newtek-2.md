@@ -3,7 +3,9 @@ layout: post
 title: "Show The World by NewTek"
 date: 2015-02-26 14:26
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/02/26/show-the-world-by-newtek-2/
+blog-url: http://blog.uk.newtek.com/blog/2015/02/26/show-the-world-by-newtek-2/
 comments: true
 categories: [3Play, TalkShow, TriCaster]
 tags: [NewTek, Show]

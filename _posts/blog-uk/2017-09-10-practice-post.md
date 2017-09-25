@@ -3,7 +3,9 @@ layout: post
 title: "Practice Post"
 date: 2017-09-10 22:43
 author: joi1
-permalink: /blog-uk/local2017/09/10/practice-post/
+published: true
+permalink: /blog-uk/2017/09/10/practice-post/
+blog-url: http://blog.uk.newtek.com/blog/2017/09/10/practice-post/
 comments: true
 categories: [3Play]
 tags: []

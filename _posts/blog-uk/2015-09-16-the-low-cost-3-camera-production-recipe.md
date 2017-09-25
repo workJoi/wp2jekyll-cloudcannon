@@ -3,7 +3,9 @@ layout: post
 title: "The Low Cost 3-Camera Production Recipe"
 date: 2015-09-16 16:31
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/09/16/the-low-cost-3-camera-production-recipe/
+blog-url: http://blog.uk.newtek.com/blog/2015/09/16/the-low-cost-3-camera-production-recipe/
 comments: true
 categories: [Corporate Video, Live Production, TriCaster]
 tags: [3 Camera, Canon, Digital Transitions, Genaray, Green Screen, HDMI, Lighting, Low Cost, Multi Camera, Remote Camera Head, TriCaster Mini, Tripod, Video Cameras]

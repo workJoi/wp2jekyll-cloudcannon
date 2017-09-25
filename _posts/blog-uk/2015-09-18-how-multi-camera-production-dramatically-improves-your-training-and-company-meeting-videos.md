@@ -3,7 +3,9 @@ layout: post
 title: "How Multi-Camera Production Dramatically Improves Your Training and Company Meeting Videos"
 date: 2015-09-18 00:00
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
+blog-url: http://blog.uk.newtek.com/blog/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
 comments: true
 categories: [Corporate Video, Live Production, Multi Camera, TriCaster]
 tags: [Corporate Meetings, Corporate Training, Corporate Video, Live Production, Multi Camera, TriCaster]

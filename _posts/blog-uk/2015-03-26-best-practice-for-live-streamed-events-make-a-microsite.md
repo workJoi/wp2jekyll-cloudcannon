@@ -3,7 +3,9 @@ layout: post
 title: "Best Practice for Live-Streamed Events: Make a Microsite"
 date: 2015-03-26 13:56
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/03/26/best-practice-for-live-streamed-events-make-a-microsite/
+blog-url: http://blog.uk.newtek.com/blog/2015/03/26/best-practice-for-live-streamed-events-make-a-microsite/
 comments: true
 categories: [Live Production Tips, TriCaster Tips]
 tags: [Events, Live Production, Live Video, Social Media, Streaming Live, Tip]

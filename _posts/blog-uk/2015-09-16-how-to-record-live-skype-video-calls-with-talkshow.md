@@ -3,7 +3,9 @@ layout: post
 title: "How to Record Live Skype Video Calls With TalkShow"
 date: 2015-09-16 16:13
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/09/16/how-to-record-live-skype-video-calls-with-talkshow/
+blog-url: http://blog.uk.newtek.com/blog/2015/09/16/how-to-record-live-skype-video-calls-with-talkshow/
 comments: true
 categories: [TalkShow Tips]
 tags: [Skype Video, TalkShow]

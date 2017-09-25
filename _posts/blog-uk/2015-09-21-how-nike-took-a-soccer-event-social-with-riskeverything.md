@@ -3,7 +3,9 @@ layout: post
 title: "How Nike Took A Soccer Event Social With #RiskEverything"
 date: 2015-09-21 23:00
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/09/21/how-nike-took-a-soccer-event-social-with-riskeverything/
+blog-url: http://blog.uk.newtek.com/blog/2015/09/21/how-nike-took-a-soccer-event-social-with-riskeverything/
 comments: true
 categories: [3Play, Broadcast - Web, Corporate Video, Customer Stories, Live Production, Sports, TriCaster]
 tags: [Corporate Video, instant replay, Live Production, Nike, Risk Everything, slow motion, Sports Video]

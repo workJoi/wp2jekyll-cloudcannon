@@ -3,7 +3,9 @@ layout: post
 title: "Introducing: NewTek TriCaster Mini HD-4sdi"
 date: 2015-10-08 00:00
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/10/08/introducing-newtek-tricaster-mini-hd-4sdi/
+blog-url: http://blog.uk.newtek.com/blog/2015/10/08/introducing-newtek-tricaster-mini-hd-4sdi/
 comments: true
 categories: [Broadcast - Traditional, Broadcast - Web, Live Production, Popular Stories, TriCaster]
 tags: [broadcast, budget, HD-SDI, Live Production, Live Streaming, Low Cost, Multi Camera, TriCaster Mini]

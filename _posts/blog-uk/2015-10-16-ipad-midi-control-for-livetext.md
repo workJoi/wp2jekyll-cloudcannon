@@ -3,7 +3,9 @@ layout: post
 title: "iPAD MIDI Control for LiveText"
 date: 2015-10-16 00:00
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/10/16/ipad-midi-control-for-livetext/
+blog-url: http://blog.uk.newtek.com/blog/2015/10/16/ipad-midi-control-for-livetext/
 comments: true
 categories: [LiveText Tips, TriCaster Tips, Video Production Tips]
 tags: [automation, LiveText, MIDI, rptMIDI, Tip, TouchOSC, TriCaster]

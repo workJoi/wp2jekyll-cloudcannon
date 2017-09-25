@@ -3,7 +3,9 @@ layout: post
 title: "Victoria and Albert Museum Brings Live Streaming In-House, Gains Global Audience"
 date: 2015-09-23 00:00
 author: jjohnston
+published: true
 permalink: /blog-uk/2015/09/23/victoria-and-albert-museum-brings-live-streaming-in-house-gains-global-audience/
+blog-url: http://blog.uk.newtek.com/blog/2015/09/23/victoria-and-albert-museum-brings-live-streaming-in-house-gains-global-audience/
 comments: true
 categories: [Broadcast - Traditional, Broadcast - Web, Customer Stories, Education, Live Production, TriCaster]
 tags: [broadcast, budget, Education, Live Production, Live Streaming, Low Cost, Multi Camera, Reduce Expenses, TriCaster, Victoria and Albert Museum, Webcast]
