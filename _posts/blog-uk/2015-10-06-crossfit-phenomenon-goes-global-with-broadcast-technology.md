@@ -18,7 +18,7 @@ The main focus of the 40-plus-member CrossFit media team is to reinforce the sen
 
 “We wanted to demonstrate the expanded scope of participation with live links from gyms located around the world,” Novello recalls. “We had ambitions, but we were limited. The economics of the traditional broadcast model would have kept us from tapping into our worldwide community the way we wanted to. It’s simply too expensive.”
 
-<figure id="attachment_1847" class="wp-caption aligncenter">![2015072616564497_MB_BQ1P9306](http://blog.uk.newtek.com/wp-content/uploads/2015/10/2015072616564497_MB_BQ1P9306.jpg)<figcaption class="wp-caption-text">©2015 CrossFit Inc. Used with permission from CrossFit Inc.</figcaption></figure>**Measurable, Observable, Repeatable**
+<figure id="attachment_1847" class="wp-caption aligncenter"><img src="http://blog.uk.newtek.com/wp-content/uploads/2015/10/2015072616564497_MB_BQ1P9306.jpg"/><figcaption class="wp-caption-text">©2015 CrossFit Inc. Used with permission from CrossFit Inc.</figcaption></figure>**Measurable, Observable, Repeatable**
 
 In many ways, communication is as central to CrossFit as the quest for physical excellence.
 
