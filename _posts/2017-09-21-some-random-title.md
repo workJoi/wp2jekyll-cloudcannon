@@ -6,10 +6,10 @@ categories: jekyll update
 ---
 
 
-<div>
-Hi i'm some text that I want to right justify.  {: .right}
-</div>
+<div>Hi i'm some text that I want to right justify. {: .right}</div>
 
 ```
 hi there
 ```
+
+!(EDU.HP.button.1.jpg)
