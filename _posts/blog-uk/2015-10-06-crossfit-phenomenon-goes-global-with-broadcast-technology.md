@@ -1,10 +1,12 @@
 ---
 layout: post
-title: CrossFit Phenomenon Goes Global with Broadcast Technology
+title: "CrossFit Phenomenon Goes Global with Broadcast Technology"
 date: 2015-10-06 00:00
 author: jjohnston
+permalink: /blog-uk/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
 comments: true
-categories: [Broadcast - Web, CrossFit, Customer Stories, Gregg Glassman, Live Production, NewTek Developer Network, Popular Stories, StubHub center, TalkShow, TalkShow, Teradek cube encoder, TriCaster, Zixi Broadcaster]
+categories: [Broadcast - Web, Customer Stories, Live Production, NewTek Developer Network, Popular Stories, TalkShow, TriCaster]
+tags: [CrossFit, Gregg Glassman, StubHub center, TalkShow, Teradek cube encoder, Zixi Broadcaster]
 ---
 Physical fitness is the heart and soul of CrossFit. Developed and introduced in the early 2000s by Gregg Glassman, CrossFit’s goal is to inspire participants to take a broad, general, and inclusive approach to getting in shape. To achieve that, workouts incorporate constantly varied functional movements performed at relatively high intensity.
 
@@ -14,7 +16,7 @@ The main focus of the 40-plus-member CrossFit media team is to reinforce the sen
 
 “We wanted to demonstrate the expanded scope of participation with live links from gyms located around the world,” Novello recalls. “We had ambitions, but we were limited. The economics of the traditional broadcast model would have kept us from tapping into our worldwide community the way we wanted to. It’s simply too expensive.”
 
-<figure id="attachment_1847" class="wp-caption aligncenter"><img class="aligncenter size-full wp-image-1499" src="http://blog.uk.newtek.com/wp-content/uploads/2015/10/2015072616564497_MB_BQ1P9306.jpg" alt="2015072616564497_MB_BQ1P9306" width="2000" height="1333" /><figcaption class="wp-caption-text">©2015 CrossFit Inc. Used with permission from CrossFit Inc.</figcaption></figure><strong>Measurable, Observable, Repeatable</strong>
+<figure id="attachment_1847" class="wp-caption aligncenter">![2015072616564497_MB_BQ1P9306](http://blog.uk.newtek.com/wp-content/uploads/2015/10/2015072616564497_MB_BQ1P9306.jpg)<figcaption class="wp-caption-text">©2015 CrossFit Inc. Used with permission from CrossFit Inc.</figcaption></figure>**Measurable, Observable, Repeatable**
 
 In many ways, communication is as central to CrossFit as the quest for physical excellence.
 
@@ -26,7 +28,7 @@ Stridently recording and measuring progress is a core component of CrossFit. Whi
 
 “That’s how the Games got started,” says Novello. “People were doing similar workouts and recording their scores, which laid the foundation for a very competitive atmosphere.”
 
-<strong>Making it Look Easy</strong>
+**Making it Look Easy**
 
 The first games took place in 2007 down the road from Santa Cruz, California, the birthplace of CrossFit, in the town of Aromas. The event is recalled as a beer blast and barbecue attended by 70 people who wanted to see how they stacked up against people from other gyms.
 
@@ -38,9 +40,9 @@ Then, in the last week in July, the top 40 men and women and teams consisting of
 
 Making it look easy to bring together a worldwide community of people who are, in his words “very strong, very loud, and very involved” fitness enthusiasts is Novello’s goal. “Our job is to encourage everyone to participate in the big picture,” he says. “Everything we do is in support of everyone’s dedication to pushing themselves to become better.”
 
-<img class="aligncenter wp-image-1501" src="http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS3.jpg" alt="CF_TS3" width="750" height="500" />
+![CF_TS3](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS3.jpg)
 
-<strong>A Workflow for Quality Video Content</strong>
+**A Workflow for Quality Video Content**
 
 To achieve its goals, the CrossFit production team invested in a workflow consisting of tools and technologies that simplify and economize the process of producing and distributing quality video content.
 
@@ -56,9 +58,9 @@ The popularity of TalkShow immediately following its release meant that supplies
 
 “Without getting outrageous with satellites, we were looking for a solution we could use to link up live connections,” he said. “We had thought about using Skype, and then as we were planning for 2015, we heard about TalkShow and it made sense for us. So far, nobody we’ve asked to participate has said, ‘What’s Skype?’”
 
-<img class="aligncenter wp-image-1502" src="http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS5.jpg" alt="CF_TS5" width="700" height="466" />
+![CF_TS5](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS5.jpg)
 
-<strong>Global Participation</strong>
+**Global Participation**
 
 “The job of the production team is to promote and inform internally and externally what’s going on around the CrossFit Games,” Novello says.
 
@@ -68,7 +70,7 @@ In 2015, as workouts were announced and demonstrated by top athletes, TalkShow, 
 
 “Once we knew how successful our new system was I asked our team what the most remote CrossFit location in the world is,” Novello says. “So we linked to the Cook Islands in the middle of the Pacific for a performance by dancers and drummers. It truly demonstrated global participation.”
 
-<strong>Completing the Circle of the Story</strong>
+**Completing the Circle of the Story**
 
 Novello says that once his team realized how effective the new system is they began to use it more broadly. The CrossFit Games Update, for example, is a weekly program produced in the in-house studio to keep everyone – true to the show’s name – updated. “Our workflow makes it easy for participants from all over the world to interact with our studio hosts,” Novello says. “If we’re talking about top scores, we occasionally Skype someone in who is doing really well. We also live stream the regional competitions and, of course, the Games.”
 
@@ -82,34 +84,34 @@ Novello says those kinds of live links make it possible for his team to deepen t
 
 “We can have our commentators tell a story, but connecting directly with someone from the family about what that workout meant forms a much deeper and more meaningful connection,” he says. “Our job is to tell the stories behind the workout. Who was this person? What was important to him or her? Who is their family? Linking to the survivors is a powerful way to complete the circle of a story.”
 
-<img class="aligncenter wp-image-1503" src="http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS6.2.jpg" alt="CF_TS6.2" width="700" height="466" />
+![CF_TS6.2](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS6.2.jpg)
 
-<strong>At a Glance</strong>
-<ul>
-	<li>CrossFit was developed and launched in Santa Cruz, California, in the early 2000’s by Greg Glassman.</li>
-	<li>There are more than 14,000 CrossFit-affiliated gyms operating in countries around the world.</li>
-	<li>The first CrossFit Games were held in 2007 in Arenas, California and have since been relocated to the StubHub Center in Carson, California.</li>
-	<li>In 2015 there were more than 270,000 participants representing 85 countries in the first stage of the CrossFit Games.</li>
-</ul>
-<strong>Workflow</strong>
-<ul>
-	<li>For live feeds from locations around the world, CrossFit rents television trucks from NEP, whose more than 85 mobile units come equipped with switchers, audio equipment, and cameras.</li>
-	<li>To shoot footage, CrossFit uses five LDK 6000 cameras and two Panasonic HE 130 cameras.</li>
-	<li>The cameras are connected to a switcher.</li>
-	<li>The six handheld Shure microphones are connected through a Mackie Audio Mixing Board.</li>
-	<li>Both audio and visual signals are routed through the NewTek TalkShow so that everyone can see and hear the interviewer.</li>
-	<li>The output of the digital device–whether computer or iPad–the interviewee uses to run Skype is routed through the NewTek TalkShow and into a field monitor on the field of play so that commentators can see the interviewee.</li>
-	<li>The audio from the interviewee is routed through the Mackie board and into the commentator’s interrupted fold back, or IFB, so that everyone talking into microphones can be heard.</li>
-	<li>Output from the mobile unit is fed into a Teradek Cube encoder, which connects to a Zixi Broadcaster that feeds the CrossFit program to the organization’s website and YouTube channel simultaneously.</li>
-</ul>
-<strong>Gear</strong>
-<ul>
-	<li>LBK 6000 cameras</li>
-	<li>Panasonic HE 130 cameras</li>
-	<li>Shure handheld microphones</li>
-	<li>Mackie Audio mixing board</li>
-	<li>NewTek TalkShow VS-100 video calling production system</li>
-	<li>Teradek Cube encoder</li>
-	<li>Zixi Broadcaster</li>
-</ul>
-<strong>Learn more about <a href="http://www.newtek.com/products/talkshow" target="_blank">NewTek TalkShow</a></strong>
+**At a Glance**
+
+
+*   CrossFit was developed and launched in Santa Cruz, California, in the early 2000’s by Greg Glassman.
+*   There are more than 14,000 CrossFit-affiliated gyms operating in countries around the world.
+*   The first CrossFit Games were held in 2007 in Arenas, California and have since been relocated to the StubHub Center in Carson, California.
+*   In 2015 there were more than 270,000 participants representing 85 countries in the first stage of the CrossFit Games.
+**Workflow**
+
+
+*   For live feeds from locations around the world, CrossFit rents television trucks from NEP, whose more than 85 mobile units come equipped with switchers, audio equipment, and cameras.
+*   To shoot footage, CrossFit uses five LDK 6000 cameras and two Panasonic HE 130 cameras.
+*   The cameras are connected to a switcher.
+*   The six handheld Shure microphones are connected through a Mackie Audio Mixing Board.
+*   Both audio and visual signals are routed through the NewTek TalkShow so that everyone can see and hear the interviewer.
+*   The output of the digital device–whether computer or iPad–the interviewee uses to run Skype is routed through the NewTek TalkShow and into a field monitor on the field of play so that commentators can see the interviewee.
+*   The audio from the interviewee is routed through the Mackie board and into the commentator’s interrupted fold back, or IFB, so that everyone talking into microphones can be heard.
+*   Output from the mobile unit is fed into a Teradek Cube encoder, which connects to a Zixi Broadcaster that feeds the CrossFit program to the organization’s website and YouTube channel simultaneously.
+**Gear**
+
+
+*   LBK 6000 cameras
+*   Panasonic HE 130 cameras
+*   Shure handheld microphones
+*   Mackie Audio mixing board
+*   NewTek TalkShow VS-100 video calling production system
+*   Teradek Cube encoder
+*   Zixi Broadcaster
+**Learn more about <a href="http://www.newtek.com/products/talkshow" target="_blank">NewTek TalkShow</a>**

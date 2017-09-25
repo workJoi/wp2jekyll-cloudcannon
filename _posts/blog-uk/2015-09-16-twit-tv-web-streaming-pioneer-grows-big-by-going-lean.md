@@ -1,10 +1,12 @@
 ---
 layout: post
-title: TWiT TV, Web Streaming Pioneer, Grows Big by Going Lean
+title: "TWiT TV, Web Streaming Pioneer, Grows Big by Going Lean"
 date: 2015-09-16 17:07
 author: jjohnston
+permalink: /blog-uk/2015/09/16/twit-tv-web-streaming-pioneer-grows-big-by-going-lean/
 comments: true
-categories: [Apple TV, Bitgravity, Broadcast - Web, CacheFly, Canon Vixia HF G10, Customer Stories, Flosoft, John Slanina, KinoFlo Parabeam, Leo LaPorte, Live Production, Omnia audio, Premiere Radio Networks, Roku, Screen Savers, Telos Xstream, This Week in Tech, TriCaster, TriCaster 8000, TWiT Brick House, TWiT.TV, Ustream, Vaddio ClearVIEW HD-19]
+categories: [Broadcast - Web, Customer Stories, Live Production, TriCaster]
+tags: [Apple TV, Bitgravity, CacheFly, Canon Vixia HF G10, Flosoft, John Slanina, KinoFlo Parabeam, Leo LaPorte, Omnia audio, Premiere Radio Networks, Roku, Screen Savers, Telos Xstream, This Week in Tech, TriCaster 8000, TWiT Brick House, TWiT.TV, Ustream, Vaddio ClearVIEW HD-19]
 ---
 It’s 2005. Longtime technology broadcaster Leo Laporte had just finished up a six-year gig with cable channel TechTV, which took a hard turn away from technology programming and morphed into a gaming network. Instead of throwing up his hands, Laporte decided the time was ripe to do what was unthinkable even five years earlier – start his own network, and distribute over the Internet.
 
@@ -14,23 +16,23 @@ Luckily for Laporte, new broadband distribution ‘pipes’ were emerging that m
 
 And the years on TechTV didn’t go to waste, either. “Fortunately the audience we had generated was still there for us. It was a natural outflow of the democratization of technology – to distribute over the Internet, to reach your audience not just in the U.S. but all around the world.”
 
-<img class="aligncenter wp-image-1458" src="http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_1367.jpg" alt="IMG_1367" width="720" height="480" />
+![IMG_1367](http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_1367.jpg)
 
-The new venture didn’t start out fully formed. Laporte and some other former TechTV regulars started doing a weekly podcast called <em>This Week in Tech</em>. The nickname ‘TWiT’ was a natural, and it eventually became applied to the entire network. “First we just did audio, because it was simple, and then we added a web spycam so people could look in. We went to video about eight years ago.”
+The new venture didn’t start out fully formed. Laporte and some other former TechTV regulars started doing a weekly podcast called *This Week in Tech*. The nickname ‘TWiT’ was a natural, and it eventually became applied to the entire network. “First we just did audio, because it was simple, and then we added a web spycam so people could look in. We went to video about eight years ago.”
 
 The original home of the operation was the ‘TWiT Cottage,’ which was a great – if compact – launching pad for the nascent network. Laporte took some lessons from TechTV. “I counted the folks behind the camera one day at TechTV and came up with 22 people. When TWiT first went to video, I switched, put in lower thirds. I did just about everything.”
 
-To keep up with the growth of the TWiT Network, the whole operation moved in 2011 to a custom-designed space in Petaluma, CA called the TWiT Brick House. With growth came new staffing models – but not huge staffing. “Now we have technical directors who do the switching for all our programs.” And there are a lot of programs, including <em>This Week in Tech</em>, <em>Macbreak Weekly</em>, <em>Windows Weekly</em>, <em>The Giz Whiz</em>, <em>This Week In Law</em>, <em>Tech News 2Night</em>, <em>iPad Today</em> and many others.
+To keep up with the growth of the TWiT Network, the whole operation moved in 2011 to a custom-designed space in Petaluma, CA called the TWiT Brick House. With growth came new staffing models – but not huge staffing. “Now we have technical directors who do the switching for all our programs.” And there are a lot of programs, including *This Week in Tech*, *Macbreak Weekly*, *Windows Weekly*, *The Giz Whiz*, *This Week In Law*, *Tech News 2Night*, *iPad Today* and many others.
 
 TWiT’s studio manager John Slanina elaborates, “Some of our shows have separate producers and some of our shows are produced by the host. Sometimes a show is done with just a host and TD, other shows have a producer helping out.” Multi-functional employees are a popular theme at TWiT. “We have eight TDs, some are editors, some are engineers. Most TDs are responsible for three or four shows each week.” And the technical plant is as lean as the staffing. “We use a single TriCaster 8000 in our main studio for our roughly thirty shows, seven days a week.” With such a large slate of programs, having unique looks to differentiate the shows is hugely important. “We love having separate sessions for each of our shows so that each technical director can customize the interface and content to their—or the
 
 With such a large slate of programs, having unique looks to differentiate the shows is hugely important. “We love having separate sessions for each of our shows so that each technical director can customize the interface and content to their—or the show’s—preferences and needs. When a TD sits down for their show, all of the graphics, M/E configurations, DDR and audio content, transitions, and other effects are ready to go.  I’d like our technical directors to have at least half an hour to set up for a show, but that rarely happens. We can change sessions on the TriCaster, configure the inputs, update the graphics, and make Skype connections all in less than 10 minutes. ”
 
-<img class="aligncenter wp-image-1459" src="http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_1803.jpg" alt="IMG_1803" width="720" height="538" />
+![IMG_1803](http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_1803.jpg)
 
 Camera duties are handled with Canon Vixia HF G10 camcorders. Blackmagic Design HDMI-to-SDI adapters convert the signals to the more professional HD-SDI format the TriCaster 8000 accepts as video input. Several Vaddio ClearVIEW HD-19 cameras are remotely operated, with pan, tilt, zoom and focus operated by the technical director.
 
-Many TWiT Network shows feature as many as four remote feeds coming in over Skype, hosted on Dell Precision computers. When you add up all the studio mics, video and audio roll-ins and remote feeds, you need a powerful and flexible audio mixer to stay on top of it all. The TWiT studios use a Telos Axia Element control console, with two Omnia audio processors downstream to help make the audio sound great. And while TWiT is primarily a video network, Leo Laporte is also <em>The Tech Guy</em>’ on radio Saturdays and Sundays syndicated by Premiere Radio Networks. ISDN connections are still the standard in professional radio, and a Telos Xstream interface connects the TWiT Brick House to the radio network – and over 225 affiliated terrestrial radio stations – with great reliability.
+Many TWiT Network shows feature as many as four remote feeds coming in over Skype, hosted on Dell Precision computers. When you add up all the studio mics, video and audio roll-ins and remote feeds, you need a powerful and flexible audio mixer to stay on top of it all. The TWiT studios use a Telos Axia Element control console, with two Omnia audio processors downstream to help make the audio sound great. And while TWiT is primarily a video network, Leo Laporte is also *The Tech Guy*’ on radio Saturdays and Sundays syndicated by Premiere Radio Networks. ISDN connections are still the standard in professional radio, and a Telos Xstream interface connects the TWiT Brick House to the radio network – and over 225 affiliated terrestrial radio stations – with great reliability.
 
 One of the great advances in video production in the last decade has been the emergence of LED and fluorescent lighting as a usable alternative to hot, energy-hungry tungsten lights. The TWiT Brick House studios are lit with a mix of KinoFlo Parabeam fluorescent fixtures and various LightPanels LED elements, including 1×1’s, Minis and Micros. Beyond looking great, fixtures of this type generate far less heat than conventional tungsten lights, lowering air conditioning needs immensely and keeping talent happy – and cooler. There are over a hundred individual lighting elements in use at the TWiT Brick House.
 
@@ -42,4 +44,4 @@ Laporte also has a TriCaster control surface installed in his on-air desk. “I 
 
 Often in technology the first-mover advantage can be both a blessing and a curse, but Laporte is thrilled that TWiT jumped out of the gate when it did. “I’m glad we have a ten-year head start, because I think we have a better understanding of what’s going on because of that. But now I think the revolution is really about to hit, where over-the-top programmers have become peers with traditional media. Bring it on! I’m very excited about it.” And with a program slate that is available both on the web and on over-the-top devices like the Roku, Apple TV and others, the ways one can be a TWiT are far greater that might have been imagined a decade ago, when Leo Laporte turned the loss of a cable TV show into what now looks like a model of a webcasting giant.
 
-<strong>Learn more about <a href="http://www.uk.newtek.com/solutions/live-production-a-streaming.html" target="_blank">Live Production and Streaming</a></strong>
+**Learn more about <a href="http://www.uk.newtek.com/solutions/live-production-a-streaming.html" target="_blank">Live Production and Streaming</a>**

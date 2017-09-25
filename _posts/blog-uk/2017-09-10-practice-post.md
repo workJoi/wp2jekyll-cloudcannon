@@ -1,10 +1,12 @@
 ---
 layout: post
-title: Practice Post
+title: "Practice Post"
 date: 2017-09-10 22:43
 author: joi1
+permalink: /blog-uk/local2017/09/10/practice-post/
 comments: true
 categories: [3Play]
+tags: []
 ---
 This post should demonstrate an embedded video.
 <iframe src="https://player.vimeo.com/video/99771825" width="640" height="359" frameborder="0" allowfullscreen="allowfullscreen"></iframe>

@@ -1,9 +1,11 @@
 ---
 layout: nav_menu_item
-title: NewTek.com
+title: "NewTek.com"
 date: 2015-06-18 15:43
 author: Olecoot
+permalink: /blog-uk/2015/06/18/go-to-newtek-com-emea/
 comments: true
-categories: [Menu 1]
+categories: []
+tags: []
 ---
 

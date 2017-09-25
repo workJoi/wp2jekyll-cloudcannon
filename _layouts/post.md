@@ -16,8 +16,8 @@ _options:
 
 {% if page.featured-image %}
     {% assign image = page.featured-image %}
-{% elsif site.data.feature_images[page.title] %}
-    {% assign image = site.data.feature_images[page.title]['image'] %}
+{% elsif site.data.blog-uk.feature_images[page.title] %}
+    {% assign image = site.data.blog-uk.feature_images[page.title]['image'] %}
 {% else %}
     <h2>Unable to find featured image</h2>
 {% endif %}
@@ -33,7 +33,7 @@ _options:
 </div>
 <div id="press-release">
     <h1 class="title">{{page.title}}</h1>
-    <p style="font-size: 12px; font-style: italic; font-weight: 500; color: #212121;">{{ page.date | date: "%B %d, %Y" }} by {{ site.data.uk-blog.authors[page.author]['name'] }}</p>
+    <p style="font-size: 12px; font-style: italic; font-weight: 500; color: #212121;">{{ page.date | date: "%B %d, %Y" }} by {{ site.data.blog-uk.authors[page.author]['name'] }}</p>
     <div id="post-share">
         <p style="padding: 10px; border: 1px solid rgba(0,0,0,0.2);">Social Share Buttons Here</p>
     </div>

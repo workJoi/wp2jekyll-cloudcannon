@@ -1,0 +1,48 @@
+Olecoot:
+    name: "The NewTek Team"
+    email: "Olecoot@newtek.com"
+    bio: ""
+    avatar: null
+    social:
+        twitter: null
+        google: null
+bchang:
+    name: "brady chang"
+    email: "bchang@newtek.com"
+    bio: ""
+    avatar: null
+    social:
+        twitter: null
+        google: null
+rgoree:
+    name: "Ryan Goree"
+    email: "rgoree@newtek.com"
+    bio: ""
+    avatar: null
+    social:
+        twitter: null
+        google: null
+joi1:
+    name: "Admin Joi"
+    email: "jwilliams@newtek.com"
+    bio: ""
+    avatar: null
+    social:
+        twitter: null
+        google: null
+jjohnston:
+    name: "Jane Johnston"
+    email: "jjohnston@newtek.com"
+    bio: ""
+    avatar: null
+    social:
+        twitter: null
+        google: null
+es:
+    name: "es"
+    email: "itdev@lists.newtek.com"
+    bio: ""
+    avatar: null
+    social:
+        twitter: null
+        google: null
