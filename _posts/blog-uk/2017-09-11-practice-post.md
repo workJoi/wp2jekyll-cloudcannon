@@ -17,6 +17,6 @@ This post should demonstrate an embedded video. &lt;iframe src="https://player.v
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4gVul0h89Jo?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
 
-!(alt text}[https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/blog-images/170926-example-image.jpg]
+!(alt text)[https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/blog-images/170926-example-image.jpg]
 
 &nbsp;
