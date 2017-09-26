@@ -4,7 +4,7 @@ title: >-
   Sienna Announces Sienna AutomationX Integration with TriCaster for Automated
   Broadcast Production
 date: 2015-04-07 19:16:00
-author: cbaker
+author: Chuck Baker
 published: true
 permalink: >-
   /blog-uk/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
