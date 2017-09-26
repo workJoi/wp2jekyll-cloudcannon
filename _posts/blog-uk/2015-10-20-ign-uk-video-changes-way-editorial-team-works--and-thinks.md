@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'IGN UK: Video Changes Way Editorial Team Works — And Thinks'
-date:
+date: 2015-10-20
 author: cbaker
 published: true
 permalink: /blog-uk/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
