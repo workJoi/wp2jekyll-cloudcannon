@@ -22,9 +22,21 @@ _options:
     <h2>Unable to find featured image</h2>
 {% endif %}
 
+{% if site.data.blog-uk.authors[page.author] %}
+ {% assign author = site.data.blog-uk.authors[page.author]['name'] %}
+{% else %}
+  {% assign author = page.author %}
+{% endif %}
 <style>
     #post-banner {
         background-image: url({{ image }});
+    }
+    
+    #blog img {
+        max-width: 900px;
+        margin: auto;
+        display: block;
+        width: 100%;
     }
 </style>
 
@@ -33,7 +45,7 @@ _options:
 </div>
 <div id="press-release">
     <h1 class="title">{{page.title}}</h1>
-    <p style="font-size: 12px; font-style: italic; font-weight: 500; color: #212121;">{{ page.date | date: "%B %d, %Y" }} by {{ site.data.blog-uk.authors[page.author]['name'] }}</p>
+    <p style="font-size: 12px; font-style: italic; font-weight: 500; color: #212121;">{{ page.date | date: "%B %d, %Y" }} by {{author}}</p>
     <div id="post-share">
         <p style="padding: 10px; border: 1px solid rgba(0,0,0,0.2);">Social Share Buttons Here</p>
     </div>
