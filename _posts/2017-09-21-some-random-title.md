@@ -18,6 +18,8 @@ This is right justified
 
 This is left justified
 
+![](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/images/newtek-logo.png)
+
 ![](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/VA_43-a.jpg)
 
 ![](/uploads/VA_43-a.jpg)
