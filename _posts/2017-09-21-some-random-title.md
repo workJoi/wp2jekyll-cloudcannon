@@ -14,8 +14,10 @@ hi there
 
 !(EDU.HP.button.1.jpg)
 
-&nbsp;
+this text is centered
 
 ![](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/VA_43-a.jpg)
 
 ![](/uploads/VA_43-a.jpg)
+
+https://storage101.dfw1.clouddrive.com/v1/MossoCloudFS_25f465b3-d10d-497d-bf84-8f233e3bb593/newtek_images/images/zoom-icon.jpg
