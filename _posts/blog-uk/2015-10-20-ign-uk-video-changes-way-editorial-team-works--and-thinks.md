@@ -1,14 +1,24 @@
 ---
 layout: post
-title: "IGN UK: Video Changes Way Editorial Team Works — And Thinks"
-date: 2015-10-20 00:00
-author: jjohnston
+title: 'IGN UK: Video Changes Way Editorial Team Works — And Thinks'
+date:
+author: cbaker
 published: true
 permalink: /blog-uk/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
-_blog-url: http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
+_blog-url: >-
+  http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
 comments: true
-categories: [Broadcast - Web, Customer Stories, TriCaster]
-tags: [Canon XF300, Canon XF305, Ianiro Florescent, IGN.com, TriCaster, Yamaha MG166-c]
+categories:
+  - Broadcast - Web
+  - Customer Stories
+  - TriCaster
+tags:
+  - Canon XF300
+  - Canon XF305
+  - Ianiro Florescent
+  - IGN.com
+  - TriCaster
+  - Yamaha MG166-c
 ---
 **If you want to know the latest news about your favourite film franchise, or can’t wait for a sneak peek at the trailer of a new game, you’d better head to IGN.com to get your fix of games and entertainment. Video is becoming core to IGN.com’s coverage of everything from *Avengers* to *Zelda*.**
 
