@@ -1,14 +1,28 @@
 ---
 layout: post
-title: "Sienna Announces Sienna AutomationX Integration with TriCaster for Automated Broadcast Production"
-date: 2015-04-07 14:16
-author: jjohnston
+title: >-
+  Sienna Announces Sienna AutomationX Integration with TriCaster for Automated
+  Broadcast Production
+date: 2015-04-07 19:16:00
+author: cbaker
 published: true
-permalink: /blog-uk/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
-_blog-url: http://blog.uk.newtek.com/blog/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
+permalink: >-
+  /blog-uk/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
+_blog-url: >-
+  http://blog.uk.newtek.com/blog/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
 comments: true
-categories: [Broadcast - Traditional, Broadcast - Web, NewTek Developer Network, TriCaster]
-tags: [automated production, broadcast, Live Production, news production, newsroom automation, TriCaster]
+categories:
+  - Broadcast - Traditional
+  - Broadcast - Web
+  - NewTek Developer Network
+  - TriCaster
+tags:
+  - automated production
+  - broadcast
+  - Live Production
+  - news production
+  - newsroom automation
+  - TriCaster
 ---
 Sienna has announced Sienna AutomationX now includes TriCaster support for integrated automated production control for news, sports, live events and multi-camera production.  Sienna AutomationX integration with TriCaster allows for seamless automation of the TriCaster with a wide variety of MOS production systems, including newsroom systems ENPS, Inception, iNews, Octopus, and OpenMedia.  Sienna and TriCaster integration brings a paradigm shift to the News industry, delivering fully automated production control with a price point an order of magnitude less than traditional systems.
 
