@@ -12,15 +12,11 @@ categories: jekyll update
 hi there
 ```
 
-&nbsp;
-
-this text is centered
-
 This text is centered
 
-This is right-justified
+This is right justified
 
-This is elft-justifieid
+This is left justified
 
 ![](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/VA_43-a.jpg)
 
