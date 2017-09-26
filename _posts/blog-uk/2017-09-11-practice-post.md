@@ -16,3 +16,7 @@ tags: []
 This post should demonstrate an embedded video. &lt;iframe src="https://player.vimeo.com/video/99771825" width="640" height="359" frameborder="0" allowfullscreen="allowfullscreen"&gt;&lt;/iframe&gt;
 
 &lt;iframe width="560" height="315" src="https://www.youtube.com/embed/4gVul0h89Jo?rel=0&controls=0&showinfo=0" frameborder="0" allowfullscreen&gt;&lt;/iframe&gt;
+
+!(alt text}[https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/blog-images/170926-example-image.jpg]
+
+&nbsp;
