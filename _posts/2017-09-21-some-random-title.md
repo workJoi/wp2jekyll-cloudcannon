@@ -17,6 +17,11 @@ This text is centered
 This is right justified
 {: .right}
 
+This is left justified
+
+This text is centered
+
+This is right justified
 
 This is left justified
 
