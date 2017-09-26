@@ -15,6 +15,8 @@ hi there
 This text is centered
 
 This is right justified
+{: .right}
+
 
 This is left justified
 
