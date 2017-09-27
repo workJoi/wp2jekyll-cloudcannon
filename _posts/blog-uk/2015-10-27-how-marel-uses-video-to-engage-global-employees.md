@@ -22,7 +22,7 @@ The Marel marketing team researched video production tools and found NewTek’s 
 
 Haraldur Gunnlaugsson, the host of Marel Live, concurs. “We wanted to do this properly and invest in good equipment that would do the job for us. With TriCaster we have the ability to produce and live stream high quality, multi-camera video and audio programming, in a very short time, on a very small budget.”
 
-![MAREL-OSCAR-MASTER-Sub.33](http://blog.uk.newtek.com/wp-content/uploads/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .aligncenter .wp-image-1527 }
+![MAREL-OSCAR-MASTER-Sub.33](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .aligncenter .wp-image-1527 }
 
 The Copenhagen demo centre is one of the many locations Marel broadcast from on a regular basis. The set-up features four cameras, a green screen, lights, monitors and microphones as well as the TriCaster – yet everything fits into a single flight case that can be easily transported to different offices to record meetings or presentations for later broadcast. “To be able to set up a complete TV station in half an hour is pretty good!” says Oskar Sveinsson, Producer of Marel Live. “In particular, the green screen functionally is unbelievable – we are able to do live green screen recordings and easily add in a suitable background with no post production required, it saves so much time.”
 
@@ -34,7 +34,7 @@ In addition to these regular monthly shows, the biannual company meetings are al
 
 He also believes that using video in this way gives the company a competitive edge. “We have more educated people out in the field, they know more about what we do and are more aware of the solutions across our whole portfolio,” he says. “The investment in professional multi-camera video technology has been really good for us – it has shown us that connecting with people is really important to make everyone feel more involved.”
 
-[![Screenshot-2015-06-25-14.49.39 (1)](http://blog.uk.newtek.com/wp-content/uploads/2015/10/Screenshot-2015-06-25-14.49.39-1.png){: .aligncenter .size-full .wp-image-1529 }](http://pages.newtek.com/6-Videos-You-Should-Be-Producing.html)
+[![Screenshot-2015-06-25-14.49.39 (1)](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/Screenshot-2015-06-25-14.49.39-1.png){: .aligncenter .size-full .wp-image-1529 }](http://pages.newtek.com/6-Videos-You-Should-Be-Producing.html)
 
 **Read More Related Articles: [Corporate Customers](http://blog.newtek.com/category/corporate-video/)**
 

@@ -12,7 +12,7 @@ tags: [broadcast, Dave Shapton, IP Workflow, Live Production, Live Streaming, Mu
 ---
 RedShark News provides insight for video producers on what the NewTek NDI open protocol, just announced, means for the future of video production.  What will NDI do for you?  Which manufacturers are already ready for it? How soon will it be able to help you achieve the greater flexibility of an IP workflow within your existing production suite?
 
-![NewTek.IP_.Diagram](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NewTek.IP_.Diagram.png){: .aligncenter .wp-image-1511 }
+![NewTek.IP_.Diagram](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NewTek.IP_.Diagram.png){: .aligncenter .wp-image-1511 }
 
 Among the things Redshark News has to say: “Network Device Interface, to be known as NDI (sounds a bit like SDI, doesn’t it?) allows multiple video systems to communicate with one another over IP. The system can encode, transmit and receive “many streams” of high quality, low latency, frame-accurate video and audio in real time.
 

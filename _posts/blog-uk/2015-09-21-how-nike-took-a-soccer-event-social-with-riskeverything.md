@@ -39,7 +39,7 @@ The continuous soccer action focused on a 4-a-side tournament where winners from
 
 Compelling video content and consumer-led social media activity are crucial in connecting Nike with its target market, and the high-octane soccer action provided fantastic source material.
 
-“We faced two challenges: to produce an exciting live and interactive soccer experience for players and spectators at the venue, including instant replays and rich animated graphics on the big screens, and to be able to push that content to social media almost instantaneously,”![IMG_4487](http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_4487.jpg){: .alignleft .wp-image-1467 } says Will Mould, Managing Director, XYZ.
+“We faced two challenges: to produce an exciting live and interactive soccer experience for players and spectators at the venue, including instant replays and rich animated graphics on the big screens, and to be able to push that content to social media almost instantaneously,”![IMG_4487](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/IMG_4487.jpg){: .alignleft .wp-image-1467 } says Will Mould, Managing Director, XYZ.
 
 XYZ contracted Chuffed Productions to provide the broadcast production to meet the brief. Two Sony PMW300 camera operators zoomed in on the fancy footwork while five GoPro fixed cameras set up around the pitch captured the action. The live cameras fed a NewTek TriCaster 8000 multi-camera live video production system for vision mixing and network-style output to live screens around the venue, complete with Nike brand graphics. A NewTek 3Play 4800 integrated sports production system provided live replays of goals and hero skills for the big screens and for social media sharing.
 
@@ -47,13 +47,13 @@ XYZ contracted Chuffed Productions to provide the broadcast production to meet t
 
 The intuitive interface of the TriCaster and the 3Play let staff work across different systems. “We had professional operators experienced with either the TriCaster or the 3Play, and they found it easy to swap from one to the other”, says Ben. “We also had work experience trainees who picked up both systems very quickly.”
 
-![IMG_4211](http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_4211.jpg){: .alignright .wp-image-1468 }There were 50-60 games each day. Every game was captured on video, broadcast to the big screens and packaged for highlights and replays. It all added up to a huge amount of footage to be managed live.
+![IMG_4211](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/IMG_4211.jpg){: .alignright .wp-image-1468 }There were 50-60 games each day. Every game was captured on video, broadcast to the big screens and packaged for highlights and replays. It all added up to a huge amount of footage to be managed live.
 
 “I thought I knew what the capabilities of TriCaster were – that’s why we brought it on board – but what I experienced with TriCaster and 3Play was beyond my wildest expectations,” says Will. “The pace of the replays and the speed at which we were able to get them out to Nike’s target audience was brilliant.”
 
 Historically, selecting the highlights among 50 to 70 short matches per day would have been a time-consuming task in post-production. In contrast, using 3Play, clips were selected and uploaded directly to social media networks including Facebook and Twitter. The clips were also emailed immediately to the players, who then shared these videos with the hashtag #RiskEverything, providing Nike with reach in the most authentic way.
 
-As Will says, “It was critical to get the highlight clips out straight away, while the content was still relevant. These players spend their lives on social media; they want to share what they’ve done, right away. TriCaster and 3Play enabled us to do that.”![2](http://blog.uk.newtek.com/wp-content/uploads/2015/09/2.jpg){: .alignleft .wp-image-1469 }
+As Will says, “It was critical to get the highlight clips out straight away, while the content was still relevant. These players spend their lives on social media; they want to share what they’ve done, right away. TriCaster and 3Play enabled us to do that.”![2](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/2.jpg){: .alignleft .wp-image-1469 }
 
 “When the client first saw the action on the big screens, they were blown away.  And when a player is still on the pitch and can look up and watch a replay of his goal, it makes him feel like a professional soccer player,” says Ben. “I can’t do that without TriCaster and 3Play. NewTek allows me to deliver affordable, professional-looking content to the big screen and social media.”
 

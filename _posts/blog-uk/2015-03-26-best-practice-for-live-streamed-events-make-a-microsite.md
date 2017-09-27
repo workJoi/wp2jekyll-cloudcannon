@@ -18,7 +18,7 @@ Also critical: include the links to the social networks, such as Twitter, Facebo
 
 Note that nearly all elements suggested above are present in the Java Jazz Fest 2015 microsite page example shown at the top of this article: details of the event, two embedded players for the event, schedules for each player, sponsor logos/links, social media links and more. All these elements are important to creating a much more complete and engaging experience for the audience by giving the event context and identity, visually and socially.
 
-[![VATV_TruthMusical_MicroSiteFull](http://blog.uk.newtek.com/wp-content/uploads/2015/08/VATV_TruthMusical_MicroSiteFull-1024x1024.jpg){: .alignnone .wp-image-1402 .size-large }](http://blog.uk.newtek.com/wp-content/uploads/2015/08/VATV_TruthMusical_MicroSiteFull.jpg)
+[![VATV_TruthMusical_MicroSiteFull](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/08/VATV_TruthMusical_MicroSiteFull-1024x1024.jpg){: .alignnone .wp-image-1402 .size-large }](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/08/VATV_TruthMusical_MicroSiteFull.jpg)
 
 **For more information on Live Production and Streaming ([click here](http://www.uk.newtek.com/solutions/live-production-a-streaming.htm)).**
 

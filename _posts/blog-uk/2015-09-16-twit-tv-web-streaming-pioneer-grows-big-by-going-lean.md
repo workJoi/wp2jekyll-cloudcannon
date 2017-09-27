@@ -18,7 +18,7 @@ Luckily for Laporte, new broadband distribution ‘pipes’ were emerging that m
 
 And the years on TechTV didn’t go to waste, either. “Fortunately the audience we had generated was still there for us. It was a natural outflow of the democratization of technology – to distribute over the Internet, to reach your audience not just in the U.S. but all around the world.”
 
-![IMG_1367](http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_1367.jpg){: .aligncenter .wp-image-1458 }
+![IMG_1367](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/IMG_1367.jpg){: .aligncenter .wp-image-1458 }
 
 The new venture didn’t start out fully formed. Laporte and some other former TechTV regulars started doing a weekly podcast called *This Week in Tech*. The nickname ‘TWiT’ was a natural, and it eventually became applied to the entire network. “First we just did audio, because it was simple, and then we added a web spycam so people could look in. We went to video about eight years ago.”
 
@@ -30,7 +30,7 @@ TWiT’s studio manager John Slanina elaborates, “Some of our shows have separ
 
 With such a large slate of programs, having unique looks to differentiate the shows is hugely important. “We love having separate sessions for each of our shows so that each technical director can customize the interface and content to their—or the show’s—preferences and needs. When a TD sits down for their show, all of the graphics, M/E configurations, DDR and audio content, transitions, and other effects are ready to go.  I’d like our technical directors to have at least half an hour to set up for a show, but that rarely happens. We can change sessions on the TriCaster, configure the inputs, update the graphics, and make Skype connections all in less than 10 minutes. ”
 
-![IMG_1803](http://blog.uk.newtek.com/wp-content/uploads/2015/09/IMG_1803.jpg){: .aligncenter .wp-image-1459 }
+![IMG_1803](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/IMG_1803.jpg){: .aligncenter .wp-image-1459 }
 
 Camera duties are handled with Canon Vixia HF G10 camcorders. Blackmagic Design HDMI-to-SDI adapters convert the signals to the more professional HD-SDI format the TriCaster 8000 accepts as video input. Several Vaddio ClearVIEW HD-19 cameras are remotely operated, with pan, tilt, zoom and focus operated by the technical director.
 

@@ -18,7 +18,7 @@ It’s hardly surprising that IGN’s audience wants to see what games look like
 
 “Video within the games industry is really interesting – the bigger outlets are producing great high-quality content, and then you’ve got the YouTube generation who are growing up with access to cheap camera gear,” points out Rich Bearpark, video producer. “These guys are making game-play clips and commentaries, and collaborating with each other on YouTube – it’s not great quality but it’s getting millions of views and generating huge ad revenues, and we need to compete with that. Our production values are far higher, and alongside that, the way that we frame and contextualise what we’re talking about is what sets our content apart.”
 
-![NEWTEK-IGN-STILL-4](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-4.jpg){: .aligncenter .wp-image-1514 }
+![NEWTEK-IGN-STILL-4](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-4.jpg){: .aligncenter .wp-image-1514 }
 
 IGN’s UK operation started creating videos about three years ago; they began with a single camera and light, and the team had to share space so the equipment had to be packed away after every shoot. An opportunity to improve this less-than-ideal situation arose when IGN moved to a larger office.
 
@@ -26,23 +26,23 @@ IGN’s UK operation started creating videos about three years ago; they began w
 
 The three-strong video production team has made clever use of limited studio space, dividing it into three distinct areas: a set for stand-up conversations, a sofa area for interviews, and a big greenscreen area used mainly for live keying. The studio has two cameras – a Canon XF300 and a Canon XF305 – and an Ianiro Florescent lighting rig, with an adjacent gallery housing a TriCaster 460 with control surface, and a separate Yamaha MG166-c audio mixer.
 
-![NEWTEK-IGN-STILL-28](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-28.jpg){: .aligncenter .wp-image-1515 }
+![NEWTEK-IGN-STILL-28](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-28.jpg){: .aligncenter .wp-image-1515 }
 
 “I used a TriCaster at university, so I was really familiar with it and wanted to bring it into IGN UK. It helps us to speed up our workflow and processes, enabling us to get more video on our site each day,” says Rich. “We have a lot of time pressures to meet deadlines – we want to be the first and best with news, so we need to get lots of videos shot and edited as quickly as possible, while retaining that studio quality and polished look. We are only able do that by getting the most out of our professional equipment.”
 
 It’s particularly important for IGN as the leader in its field to be first with the news – and to have it look professional. “We use the TriCaster to live-key the presenter into a background shot of the office. Our presenter, Rory, can do the whole thing himself – write the script, self-shoot, edit and upload – so that a video of a breaking news story is online within 30 minutes of us receiving it. We couldn’t do this without the TriCaster,” says Rich.
 
-![NEWTEK-IGN-STILL-34](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-34.jpg){: .aligncenter .wp-image-1516 }
+![NEWTEK-IGN-STILL-34](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-34.jpg){: .aligncenter .wp-image-1516 }
 
-![NEWTEK-IGN-STILL-19](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-19.jpg){: .aligncenter .wp-image-1517 }
+![NEWTEK-IGN-STILL-19](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-19.jpg){: .aligncenter .wp-image-1517 }
 
-![NEWTEK-IGN-STILL-29](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-29.jpg){: .aligncenter .wp-image-1518 }
+![NEWTEK-IGN-STILL-29](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-29.jpg){: .aligncenter .wp-image-1518 }
 
-![NEWTEK-IGN-STILL-1](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-1.jpg){: .aligncenter .wp-image-1519 }
+![NEWTEK-IGN-STILL-1](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-1.jpg){: .aligncenter .wp-image-1519 }
 
-![NEWTEK-IGN-STILL-24](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-24.jpg){: .aligncenter .wp-image-1520 }
+![NEWTEK-IGN-STILL-24](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-24.jpg){: .aligncenter .wp-image-1520 }
 
-![NEWTEK-IGN-STILL-27](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-27.jpg){: .aligncenter .wp-image-1521 }
+![NEWTEK-IGN-STILL-27](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-27.jpg){: .aligncenter .wp-image-1521 }
 
  
 
@@ -60,7 +60,7 @@ Alongside daily news and ad-hoc stories, IGN produces regular features including
 
 Now that the editorial team is proficient at producing news video, they are experimenting to see what else video can offer the target audience. “We’ve done a lot of live streaming in the last 12 months, but we consider carefully when we use it,” says Alex. “If you’ve got ‘appointment to view’ video we make sure that there is something of value to present.” They are also looking at generating more long-form documentary-style videos, something that very few other outlets are offering.
 
-![NEWTEK-IGN-STILL-16](http://blog.uk.newtek.com/wp-content/uploads/2015/10/NEWTEK-IGN-STILL-16.jpg){: .aligncenter .wp-image-1522 }
+![NEWTEK-IGN-STILL-16](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-16.jpg){: .aligncenter .wp-image-1522 }
 
 The team is conscious of what their audience want and how or when they want it; there is constant monitoring of web traffic to gauge the popularity of different items. “What’s interesting is the way people consume our video content,” says Alex. “People tend to watch a little bit longer on desktop because it feels like a more natural experience. If they’re viewing on mobile they’ll cycle through more videos but spend less time on each. We’ve also got apps that are native on PS4 and Roku, and people spend a lot of time on that – you can just cue up as many videos as you want and watch them in your living room. It’s your own custom TV channel.”
 
@@ -80,7 +80,7 @@ Make sure you know exactly what you want before the cameras roll. We spend most 
 
 For every minute you’re on the air you should dedicate fives minute of prep time, so even though you know what you’re talking about, you should absolutely know because you can’t check once you’re live on camera!
 
-[![Screenshot-2015-06-25-14.49.39](http://blog.uk.newtek.com/wp-content/uploads/2015/10/Screenshot-2015-06-25-14.49.39.png){: .aligncenter .size-full .wp-image-1523 }](http://new.tk/3b)
+[![Screenshot-2015-06-25-14.49.39](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/Screenshot-2015-06-25-14.49.39.png){: .aligncenter .size-full .wp-image-1523 }](http://new.tk/3b)
 
 **Learn more about [Live Production and Streaming](http://www.newtek.com/solutions/live-production-a-streaming.html)**
 

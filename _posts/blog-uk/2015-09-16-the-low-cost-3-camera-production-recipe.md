@@ -16,7 +16,7 @@ The most basic online video production is a lecture or webinar – one guy in fr
 
 All of this might sound far beyond your financial capability to achieve, but not so.  You can easily surf this new wave simply by drastically downsizing the equipment.  And that’s just what TV networks did after decades of monopolizing the business.  Here’s how you can be big – by getting small.
 
-![The evolving technology of multi-camera shooting, from the elaborate 'broadcast quality' array, championed by leading broadcasters (here shown, Maryland Public Broadcasting), and today's latest technology, which reduces cost and manpower down to one-operator and as little as $7,500 worth of gear.](http://blog.uk.newtek.com/wp-content/uploads/2015/09/Low-Cost-3-Camera-Shoot-1.jpg){: .aligncenter .size-full .wp-image-1447 }**The Crew**
+![The evolving technology of multi-camera shooting, from the elaborate 'broadcast quality' array, championed by leading broadcasters (here shown, Maryland Public Broadcasting), and today's latest technology, which reduces cost and manpower down to one-operator and as little as $7,500 worth of gear.](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/Low-Cost-3-Camera-Shoot-1.jpg){: .aligncenter .size-full .wp-image-1447 }**The Crew**
 
 Visit a TV studio in a big city – say back when we were partying like it was 1999 – and you’d have found a virtual factory full of big, expensive gear and dozens of union craftsmen.  Cameramen (yes, male gender), lighting engineers, grips, electricians, technical directors, yada, yada.  Go back to that studio now and despite the unions griping about the grips, it looks like Terminator II.  Robotic cameras dance around the set, tally lights replace floor managers, one guy directs and switches – it’s nearly empty!  But even the big networks are downsizing with technology.  And so will you.
 
@@ -28,7 +28,7 @@ The tools you need fit into three categories; cameras, lights and switcher.  Fo
 <table border="0" width="100%" cellspacing="0" cellpadding="30" bgcolor="#EEEEEE">
 <tbody>
 <tr>
-<td align="center" valign="middle">![The Canon XA10 HD is ideal for studio and/or location work and offers a handy flip-out HD viewscreen. Here, used here by a KRGV-TV5, shooter, it helped that station win an Emmy Award.](http://blog.uk.newtek.com/wp-content/uploads/2015/09/Low-Cost-3-Camera-Shoot-2.jpg){: .aligncenter .size-full .wp-image-1448 }
+<td align="center" valign="middle">![The Canon XA10 HD is ideal for studio and/or location work and offers a handy flip-out HD viewscreen. Here, used here by a KRGV-TV5, shooter, it helped that station win an Emmy Award.](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/Low-Cost-3-Camera-Shoot-2.jpg){: .aligncenter .size-full .wp-image-1448 }
 
 
 *The Canon XA10 HD is ideal for studio and/or location work and offers a handy flip-out HD viewscreen. Here, used here by a KRGV-TV5, shooter, it helped that station win an Emmy Award.*
@@ -57,7 +57,7 @@ There’s a simple solution to acquiring the “network control center” totali
 <table border="0" width="100%" cellspacing="0" cellpadding="30" bgcolor="#EEEEEE">
 <tbody>
 <tr>
-<td align="center" valign="middle">![The nexus of any multi-camera shoot is the control center where the cameras are switched and hundreds of other utilities are combined to create a finished program output.  Here, the TriCaster Mini screen during an online demonstration on the YouTub webzine, 'KitPlus.'](http://blog.uk.newtek.com/wp-content/uploads/2015/09/Low-Cost-3-Camera-Shoot-3.jpg){: .aligncenter .size-full .wp-image-1449 }
+<td align="center" valign="middle">![The nexus of any multi-camera shoot is the control center where the cameras are switched and hundreds of other utilities are combined to create a finished program output.  Here, the TriCaster Mini screen during an online demonstration on the YouTub webzine, 'KitPlus.'](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/Low-Cost-3-Camera-Shoot-3.jpg){: .aligncenter .size-full .wp-image-1449 }
 
 
 *The nexus of any multi-camera shoot is the control center where the cameras are switched and hundreds of other utilities are combined to create a finished program output. Here, the TriCaster Mini screen during an online demonstration on the YouTub webzine, “KitPlus.”*
@@ -86,7 +86,7 @@ Of lights, stands and power cables – here’s what you need.  For low-cost fi
 <table border="0" width="100%" cellspacing="0" cellpadding="30" bgcolor="#EEEEEE">
 <tbody>
 <tr>
-<td align="center" valign="middle">![Two views of the Genaray SpectroLED Studio 500 BiColor instrument.  The front shows the double array of LED bulbs that allow for either of color temperatures (outdoor or indoor) to be selected.  The rear view shows the selection and dimmer controls and reveals a 12V battery power jack.  Take this baby out to the streets!](http://blog.uk.newtek.com/wp-content/uploads/2015/09/Low-Cost-3-Camera-Shoot-4.jpg){: .aligncenter .size-full .wp-image-1450 }
+<td align="center" valign="middle">![Two views of the Genaray SpectroLED Studio 500 BiColor instrument.  The front shows the double array of LED bulbs that allow for either of color temperatures (outdoor or indoor) to be selected.  The rear view shows the selection and dimmer controls and reveals a 12V battery power jack.  Take this baby out to the streets!](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/Low-Cost-3-Camera-Shoot-4.jpg){: .aligncenter .size-full .wp-image-1450 }
 
 
 *Two views of the Genaray SpectroLED Studio 500 BiColor instrument. The front shows the double array of LED bulbs that allow for either of color temperatures (outdoor or indoor) to be selected. The rear view shows the selection and dimmer controls and reveals a 12V battery power jack. Take this baby out to the streets!*
