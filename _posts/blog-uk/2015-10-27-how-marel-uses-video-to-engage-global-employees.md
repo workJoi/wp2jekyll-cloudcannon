@@ -4,7 +4,7 @@ title: "How Marel Uses Video To Engage Global Employees"
 date: 2015-10-27 00:00
 author: jjohnston
 published: true
-permalink: /blog-uk/2015/10/27/how-marel-uses-video-to-engage-global-employees/
+permalink: http://blog.uk.newtek.com/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/
 _blog-url: http://blog.uk.newtek.com/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/
 comments: true
 categories: [Corporate Video, Customer Stories, TriCaster]
@@ -22,11 +22,11 @@ The Marel marketing team researched video production tools and found NewTek’s 
 
 Haraldur Gunnlaugsson, the host of Marel Live, concurs. “We wanted to do this properly and invest in good equipment that would do the job for us. With TriCaster we have the ability to produce and live stream high quality, multi-camera video and audio programming, in a very short time, on a very small budget.”
 
-![MAREL-OSCAR-MASTER-Sub.33](http://blog.uk.newtek.com/wp-content/uploads/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg)
+![MAREL-OSCAR-MASTER-Sub.33](http://blog.uk.newtek.com/wp-content/uploads/2015/10/MAREL-OSCAR-MASTER-Sub.33.jpg){: .aligncenter .wp-image-1527 }
 
 The Copenhagen demo centre is one of the many locations Marel broadcast from on a regular basis. The set-up features four cameras, a green screen, lights, monitors and microphones as well as the TriCaster – yet everything fits into a single flight case that can be easily transported to different offices to record meetings or presentations for later broadcast. “To be able to set up a complete TV station in half an hour is pretty good!” says Oskar Sveinsson, Producer of Marel Live. “In particular, the green screen functionally is unbelievable – we are able to do live green screen recordings and easily add in a suitable background with no post production required, it saves so much time.”
 
-Once a month, the production team records presentations, using PowerPoint and product demonstrations, and vision-mixes them live with presenter links and interviews with product specialists. Employees then take part in a live Q&amp;A with the presenter to find out more about what they have just seen. The Marel Live shows are live-streamed twice in a day to accommodate different time zones.
+Once a month, the production team records presentations, using PowerPoint and product demonstrations, and vision-mixes them live with presenter links and interviews with product specialists. Employees then take part in a live Q&A with the presenter to find out more about what they have just seen. The Marel Live shows are live-streamed twice in a day to accommodate different time zones.
 
 In addition to these regular monthly shows, the biannual company meetings are also broadcast around the organisation; and if there is a new product or development that is too important to wait for the next show, the team has the equipment available to produce an extra programme quickly and at no additional cost.
 
@@ -34,14 +34,14 @@ In addition to these regular monthly shows, the biannual company meetings are al
 
 He also believes that using video in this way gives the company a competitive edge. “We have more educated people out in the field, they know more about what we do and are more aware of the solutions across our whole portfolio,” he says. “The investment in professional multi-camera video technology has been really good for us – it has shown us that connecting with people is really important to make everyone feel more involved.”
 
-<a href="http://pages.newtek.com/6-Videos-You-Should-Be-Producing.html" target="_blank">![Screenshot-2015-06-25-14.49.39 (1)](http://blog.uk.newtek.com/wp-content/uploads/2015/10/Screenshot-2015-06-25-14.49.39-1.png)</a>
+[![Screenshot-2015-06-25-14.49.39 (1)](http://blog.uk.newtek.com/wp-content/uploads/2015/10/Screenshot-2015-06-25-14.49.39-1.png){: .aligncenter .size-full .wp-image-1529 }](http://pages.newtek.com/6-Videos-You-Should-Be-Producing.html)
 
-**Read More Related Articles: <a href="http://blog.newtek.com/category/corporate-video/" target="_blank">Corporate Customers</a>**
+**Read More Related Articles: [Corporate Customers](http://blog.newtek.com/category/corporate-video/)**
 
 **Learn More About Video for Corporate Communications:**
 
-**<a href="http://www.newtek.com/solutions/enterprise.html" target="_blank">US: Corporate Video Solutions</a>**
+**[US: Corporate Video Solutions](http://www.newtek.com/solutions/enterprise.html)**
 
 **To learn which model TriCaster will fit your needs:**
 
-**<a href="http://pages.newtek.com/which-tricaster.html" target="_blank">English: Which TriCaster is Right For You?</a>**
+**[English: Which TriCaster is Right For You?](http://pages.newtek.com/which-tricaster.html)**

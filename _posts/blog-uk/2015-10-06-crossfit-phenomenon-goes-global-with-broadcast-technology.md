@@ -4,7 +4,7 @@ title: "CrossFit Phenomenon Goes Global with Broadcast Technology"
 date: 2015-10-06 00:00
 author: jjohnston
 published: true
-permalink: /blog-uk/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
+permalink: http://blog.uk.newtek.com/blog/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
 _blog-url: http://blog.uk.newtek.com/blog/2015/10/06/crossfit-phenomenon-goes-global-with-broadcast-technology/
 comments: true
 categories: [Broadcast - Web, Customer Stories, Live Production, NewTek Developer Network, Popular Stories, TalkShow, TriCaster]
@@ -18,7 +18,7 @@ The main focus of the 40-plus-member CrossFit media team is to reinforce the sen
 
 “We wanted to demonstrate the expanded scope of participation with live links from gyms located around the world,” Novello recalls. “We had ambitions, but we were limited. The economics of the traditional broadcast model would have kept us from tapping into our worldwide community the way we wanted to. It’s simply too expensive.”
 
-<figure id="attachment_1847" class="wp-caption aligncenter"><img src="http://blog.uk.newtek.com/wp-content/uploads/2015/10/2015072616564497_MB_BQ1P9306.jpg"/><figcaption class="wp-caption-text">©2015 CrossFit Inc. Used with permission from CrossFit Inc.</figcaption></figure>**Measurable, Observable, Repeatable**
+<figure id="attachment_1847" class="wp-caption aligncenter">![2015072616564497_MB_BQ1P9306](http://blog.uk.newtek.com/wp-content/uploads/2015/10/2015072616564497_MB_BQ1P9306.jpg){: .aligncenter .size-full .wp-image-1499 }<figcaption class="wp-caption-text">©2015 CrossFit Inc. Used with permission from CrossFit Inc.</figcaption></figure>**Measurable, Observable, Repeatable**
 
 In many ways, communication is as central to CrossFit as the quest for physical excellence.
 
@@ -42,7 +42,7 @@ Then, in the last week in July, the top 40 men and women and teams consisting of
 
 Making it look easy to bring together a worldwide community of people who are, in his words “very strong, very loud, and very involved” fitness enthusiasts is Novello’s goal. “Our job is to encourage everyone to participate in the big picture,” he says. “Everything we do is in support of everyone’s dedication to pushing themselves to become better.”
 
-![CF_TS3](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS3.jpg)
+![CF_TS3](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS3.jpg){: .aligncenter .wp-image-1501 }
 
 **A Workflow for Quality Video Content**
 
@@ -60,7 +60,7 @@ The popularity of TalkShow immediately following its release meant that supplies
 
 “Without getting outrageous with satellites, we were looking for a solution we could use to link up live connections,” he said. “We had thought about using Skype, and then as we were planning for 2015, we heard about TalkShow and it made sense for us. So far, nobody we’ve asked to participate has said, ‘What’s Skype?’”
 
-![CF_TS5](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS5.jpg)
+![CF_TS5](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS5.jpg){: .aligncenter .wp-image-1502 }
 
 **Global Participation**
 
@@ -86,7 +86,7 @@ Novello says those kinds of live links make it possible for his team to deepen t
 
 “We can have our commentators tell a story, but connecting directly with someone from the family about what that workout meant forms a much deeper and more meaningful connection,” he says. “Our job is to tell the stories behind the workout. Who was this person? What was important to him or her? Who is their family? Linking to the survivors is a powerful way to complete the circle of a story.”
 
-![CF_TS6.2](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS6.2.jpg)
+![CF_TS6.2](http://blog.uk.newtek.com/wp-content/uploads/2015/10/CF_TS6.2.jpg){: .aligncenter .wp-image-1503 }
 
 **At a Glance**
 
@@ -116,4 +116,4 @@ Novello says those kinds of live links make it possible for his team to deepen t
 *   NewTek TalkShow VS-100 video calling production system
 *   Teradek Cube encoder
 *   Zixi Broadcaster
-**Learn more about <a href="http://www.newtek.com/products/talkshow" target="_blank">NewTek TalkShow</a>**
+**Learn more about [NewTek TalkShow](http://www.newtek.com/products/talkshow)**

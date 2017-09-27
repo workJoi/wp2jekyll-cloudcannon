@@ -4,7 +4,7 @@ title: "Lighting Your Green Screen Subjects to Blend with the Intended Backgroun
 date: 2015-09-16 00:18
 author: jjohnston
 published: true
-permalink: /blog-uk/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
+permalink: http://blog.uk.newtek.com/blog/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
 _blog-url: http://blog.uk.newtek.com/blog/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
 comments: true
 categories: [TriCaster Tips, Virtual Sets]
@@ -20,7 +20,7 @@ Most basic green screen shots require a straight-on shot of your subject posed i
 
 But having the right angle to the subject and correctly cropping the subject in frame are what will sell the final composition. If you have a detailed storyboard and your background clips or images or virtual set is already designed and available, then it’s much easier to line up your green screen shot and position the camera and subjects in the correct location.
 
-![Lighting Your Green Screen](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-02.jpg)
+![Lighting Your Green Screen](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-02.jpg){: .wp-image-1432 .size-full .aligncenter }
 
 In this case, the background footage was shot on a location with the camera locked-off on a tripod. I simulated the low, soft lighting of the restaurant in the green screen shot so the two videos would match correctly. Because this subject didn’t need to interact with the bar surface—she was seated in front of it—a simple, straight-on angle was needed, although I had to lower the camera to match the height of the original background shot so the final composite looked believable.
 
@@ -28,13 +28,13 @@ I set up the lighting on the subject to emulate the surroundings she was to be p
 
 Without changing the lighting of your green screen background, you can easily alter the lighting on your subjects to place them in various environments, simply by keeping them well in front of the green screen (at least 8-10ft) and lighting them for the intended scene.
 
-![FIG-03](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-03.jpg)
+![FIG-03](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-03.jpg){: .aligncenter .wp-image-1433 .size-full }
 
 In this case, a primary key light was used with little or no fill, causing the subject to be partially silhouetted against the green screen. The composite was enhanced to eliminate color spill and an edge glow for the desired moonlight film effect.
 
 I was able to demonstrate this lighting technique at a live green screen production workshop at NAB last year, where I asked my subject to stand and pretend she was driving a car while I positioned the camera to frame her correctly in the shot. I used one small LED light on her from a low angle to emulate a “glow” from the dashboard as if she was driving the car at night.
 
-![FIG-04a](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-04a.jpg)![FIG-04b](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-04b.jpg)
+![FIG-04a](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-04a.jpg){: . .size-full .wp-image-1434 .aligncenter }![FIG-04b](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-04b.jpg){: .aligncenter .wp-image-1435 }
 
 **Shooting to Retain Wanted Shadows**
 
@@ -44,7 +44,7 @@ The biggest issue is higher noise in the green channel, resulting in a grainy ma
 
 The object is to get the strongest light source on the subject and cast a shadow in the direction you need onto the green screen surface, while using smaller fill and rim lights to light only the subject and not the screen if at all possible. I recommend using a stretched fabric such as a Lastolite pop-up screen because there is less chance of bounce-back fill than if you use a painted wall and floor.
 
-![FIG-05](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-051.jpg)
+![FIG-05](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-051.jpg){: .aligncenter .wp-image-1436 .size-full }
 
 In this example, I used one portable Kino Flo Diva 400 as the main key light source which also produces the primary shadow on the green screen fabric surface, with two Kino Flo Bar Flys to fill the sides of the subject and another Diva 400 set low and farther back for a soft fill.
 
@@ -56,7 +56,7 @@ In this example I tried two different approaches to creating an exterior backgro
 
 To create a contrasting ambiance, I selected a cooler-colored winter city shot and added a layer of heavy snow particles between the two plates. The color palette of the entire scene contrasted greatly with the warm and homey atmosphere of the second approach; in that case, the background was closer to the window and lit up at night with the glow of holiday lights.
 
-![FIG-06](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-06.jpg)
+![FIG-06](http://blog.uk.newtek.com/wp-content/uploads/2015/09/FIG-06.jpg){: .aligncenter .size-full .wp-image-1437 }
 
 The two different backgrounds used actually alter the mood of the scene and identify the location, even though the foreground plate is the same warm holiday living room setting. The top one gives a feeling that you’re in a high-rise apartment but doesn’t have the same cozy and warm feeling that the snowman in the yard gives the scene.
 

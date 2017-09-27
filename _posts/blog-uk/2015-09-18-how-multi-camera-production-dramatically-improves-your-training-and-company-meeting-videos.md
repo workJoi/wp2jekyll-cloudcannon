@@ -4,7 +4,7 @@ title: "How Multi-Camera Production Dramatically Improves Your Training and Comp
 date: 2015-09-18 00:00
 author: jjohnston
 published: true
-permalink: /blog-uk/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
+permalink: http://blog.uk.newtek.com/blog/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
 _blog-url: http://blog.uk.newtek.com/blog/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
 comments: true
 categories: [Corporate Video, Live Production, Multi Camera, TriCaster]
@@ -20,7 +20,7 @@ The quality and complexity of corporate training and meeting videos runs a wide 
 
 For video communications and training, one way to improve interest while limiting editing time is to shoot with multiple cameras. This allows for different sizes of images and different angles on the presenter. With multiple presenters, it allows for a presentation similar to what most people expect from national broadcast TV: a polished presentation with variety.
 
-![MultiCamMTG2](http://blog.uk.newtek.com/wp-content/uploads/2015/09/MultiCamMTG2.jpg)
+![MultiCamMTG2](http://blog.uk.newtek.com/wp-content/uploads/2015/09/MultiCamMTG2.jpg){: .aligncenter .size-full .wp-image-1462 }
 
 The other thing that turns an ordinary presentation into something valuable and engaging is not the technical delivery, but the content itself. With very few exceptions, having a one-man show is rarely engaging. People like interaction. We are social animals. Having two or more people engage in a conversation also engages an audience.
 
@@ -32,7 +32,7 @@ Even if you only have a single presenter, having multiple cameras allows for a v
 
 Multi-camera also saves large amounts of post-production effort: and effort translates to MONEY. Post production can be more expensive than production. It can also be the cause for long delays because of the extended schedules that post-production require. Multi-camera production means that you can deliver your content immediately – even LIVE – without any additional cost, personnel, resources or deadline extensions.
 
-![8000-image-big-thumb](http://blog.uk.newtek.com/wp-content/uploads/2015/09/8000-image-big-thumb.jpg)
+![8000-image-big-thumb](http://blog.uk.newtek.com/wp-content/uploads/2015/09/8000-image-big-thumb.jpg){: . .size-full .wp-image-1463 .alignleft }
 
 To produce multi-camera work without post production means the use of a switcher. Luckily the days when switchers cost hundreds of thousands of dollars are long past. Now, inexpensive and easy-to-use multi-camera switching solutions are available from a number of sources including NewTek.
 

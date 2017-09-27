@@ -4,7 +4,7 @@ title: "Best Practice for Live-Streamed Events: Make a Microsite"
 date: 2015-03-26 13:56
 author: jjohnston
 published: true
-permalink: /blog-uk/2015/03/26/best-practice-for-live-streamed-events-make-a-microsite/
+permalink: http://blog.uk.newtek.com/blog/2015/03/26/best-practice-for-live-streamed-events-make-a-microsite/
 _blog-url: http://blog.uk.newtek.com/blog/2015/03/26/best-practice-for-live-streamed-events-make-a-microsite/
 comments: true
 categories: [Live Production Tips, TriCaster Tips]
@@ -18,8 +18,8 @@ Also critical: include the links to the social networks, such as Twitter, Facebo
 
 Note that nearly all elements suggested above are present in the Java Jazz Fest 2015 microsite page example shown at the top of this article: details of the event, two embedded players for the event, schedules for each player, sponsor logos/links, social media links and more. All these elements are important to creating a much more complete and engaging experience for the audience by giving the event context and identity, visually and socially.
 
-<a href="http://blog.uk.newtek.com/wp-content/uploads/2015/08/VATV_TruthMusical_MicroSiteFull.jpg">![VATV_TruthMusical_MicroSiteFull](http://blog.uk.newtek.com/wp-content/uploads/2015/08/VATV_TruthMusical_MicroSiteFull-1024x1024.jpg)</a>
+[![VATV_TruthMusical_MicroSiteFull](http://blog.uk.newtek.com/wp-content/uploads/2015/08/VATV_TruthMusical_MicroSiteFull-1024x1024.jpg){: .alignnone .wp-image-1402 .size-large }](http://blog.uk.newtek.com/wp-content/uploads/2015/08/VATV_TruthMusical_MicroSiteFull.jpg)
 
-**For more information on Live Production and Streaming (<a href="http://www.uk.newtek.com/solutions/live-production-a-streaming.htm" target="_blank">click here</a>).**
+**For more information on Live Production and Streaming ([click here](http://www.uk.newtek.com/solutions/live-production-a-streaming.htm)).**
 
-**To determine which TriCaster is Right for you (<a href="http://pages.newtek.com/which-tricaster.html" target="_blank">click here</a>).**
+**To determine which TriCaster is Right for you ([click here](http://pages.newtek.com/which-tricaster.html)).**

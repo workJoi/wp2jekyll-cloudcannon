@@ -4,7 +4,7 @@ title: "How to Record Live Skype Video Calls With TalkShow"
 date: 2015-09-16 16:13
 author: jjohnston
 published: true
-permalink: /blog-uk/2015/09/16/how-to-record-live-skype-video-calls-with-talkshow/
+permalink: http://blog.uk.newtek.com/blog/2015/09/16/how-to-record-live-skype-video-calls-with-talkshow/
 _blog-url: http://blog.uk.newtek.com/blog/2015/09/16/how-to-record-live-skype-video-calls-with-talkshow/
 comments: true
 categories: [TalkShow Tips]
@@ -17,4 +17,4 @@ Recorded files will work with every major non-linear video editor on the market.
 
 With TalkShow, you can record all channels of audio, including both ends of the call.
 
-**Learn more about <a href="http://www.uk.newtek.com/products/talkshow" target="_blank">NewTek TalkShow</a>**
+**Learn more about [NewTek TalkShow](http://www.uk.newtek.com/products/talkshow)**
