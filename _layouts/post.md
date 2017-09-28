@@ -32,16 +32,10 @@ _options:
         background-image: url({{ image }});
     }
     
-    #blog img {
-        max-width: 900px;
-        margin: auto;
-        display: block;
-        width: 100%;
-    }
 </style>
 
 <div id="post-banner">
-    <a href="{{page.image.feature}}" class="venobox" title="{{page.title}}" data-gall="gallery"></a>
+    <a href="{{image}}" class="venobox" title="{{page.title}}" data-gall="gallery"></a>
 </div>
 <div id="press-release">
     <h1 class="title">{{page.title}}</h1>
