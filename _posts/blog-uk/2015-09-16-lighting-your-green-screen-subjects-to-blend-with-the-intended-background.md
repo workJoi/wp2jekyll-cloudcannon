@@ -4,8 +4,8 @@ title: "Lighting Your Green Screen Subjects to Blend with the Intended Backgroun
 date: 2015-09-16 00:18
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
-_blog-url: http://blog.uk.newtek.com/blog/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
+permalink: /blog-uk/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/09/16/lighting-your-green-screen-subjects-to-blend-with-the-intended-background/"
 comments: true
 categories: [TriCaster Tips, Virtual Sets]
 tags: [Green Screen, Lighting, Tip, TriCaster, Virtual Sets]
@@ -20,7 +20,7 @@ Most basic green screen shots require a straight-on shot of your subject posed i
 
 But having the right angle to the subject and correctly cropping the subject in frame are what will sell the final composition. If you have a detailed storyboard and your background clips or images or virtual set is already designed and available, then it’s much easier to line up your green screen shot and position the camera and subjects in the correct location.
 
-![Lighting Your Green Screen](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/FIG-02.jpg){: .wp-image-1432 .size-full .aligncenter }
+![Lighting Your Green Screen](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/FIG-02.jpg){: .wp-image-1432 .size-full .aligncenter .medium }
 
 In this case, the background footage was shot on a location with the camera locked-off on a tripod. I simulated the low, soft lighting of the restaurant in the green screen shot so the two videos would match correctly. Because this subject didn’t need to interact with the bar surface—she was seated in front of it—a simple, straight-on angle was needed, although I had to lower the camera to match the height of the original background shot so the final composite looked believable.
 
@@ -56,7 +56,7 @@ In this example I tried two different approaches to creating an exterior backgro
 
 To create a contrasting ambiance, I selected a cooler-colored winter city shot and added a layer of heavy snow particles between the two plates. The color palette of the entire scene contrasted greatly with the warm and homey atmosphere of the second approach; in that case, the background was closer to the window and lit up at night with the glow of holiday lights.
 
-![FIG-06](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/FIG-06.jpg){: .aligncenter .size-full .wp-image-1437 }
+![FIG-06](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/FIG-06.jpg){: .aligncenter .size-full .wp-image-1437 .medium }
 
 The two different backgrounds used actually alter the mood of the scene and identify the location, even though the foreground plate is the same warm holiday living room setting. The top one gives a feeling that you’re in a high-rise apartment but doesn’t have the same cozy and warm feeling that the snowman in the yard gives the scene.
 

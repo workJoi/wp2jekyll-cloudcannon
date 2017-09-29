@@ -4,8 +4,8 @@ title: "iPAD MIDI Control for LiveText"
 date: 2015-10-16 00:00
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/10/16/ipad-midi-control-for-livetext/
-_blog-url: http://blog.uk.newtek.com/blog/2015/10/16/ipad-midi-control-for-livetext/
+permalink: /blog-uk/2015/10/16/ipad-midi-control-for-livetext/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/10/16/ipad-midi-control-for-livetext/"
 comments: true
 categories: [LiveText Tips, TriCaster Tips, Video Production Tips]
 tags: [automation, LiveText, MIDI, rptMIDI, Tip, TouchOSC, TriCaster]
@@ -25,7 +25,7 @@ Wouldn’t it be great if you could control LiveText from your iPad like you can
 *   LiveTextMIDIControl ZIP file – contains iPad interface file for TouchOSC and shortcut configuration file for Bome’s MIDI Translator Classic: [LiveTextMIDIControl](http://tips.newtek.com/wp-content/uploads/2015/08/LiveTextMIDIControl.zip)
 **Software Configuration:**
 
-![LiveText_MIDI_figure001](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/LiveText_MIDI_figure001.jpg){: .alignleft .wp-image-1489 }
+![LiveText_MIDI_figure001](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/LiveText_MIDI_figure001.jpg){: .alignleft .wp-image-1489 .medium }
 
 Install rtpMIDI on the computer that will be running LiveText.
 
@@ -39,7 +39,7 @@ Close the rtpMIDI configuration screen.
 
 Once you have rtpMIDI running, install the Bome’s Translator Classic software on the same computer that will be running LiveText.
 
-![LiveText_MIDI_figure002](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/LiveText_MIDI_figure002.jpg){: .alignright .wp-image-1490 }
+![LiveText_MIDI_figure002](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/LiveText_MIDI_figure002.jpg){: .alignright .wp-image-1490 .small }
 
 From the Bome’s software ‘Midi In’ menu, select the rtpMIDI name from the list. This is the same name that you will see in the ‘My Sessions’ panel in rtpMIDI.
 
@@ -52,7 +52,7 @@ Once you have imported the shortcuts, you can minimize the Bome’s MIDI Transla
 Download and install TouchOSC Editor ([www.hexler.net](http://www.hexler.net/)) which will allow you to install the TouchOSC interface supplied in the LiveTextMIDIControl ZIP file onto your iPad. Once you have that on your iPad, you are ready to go. Start up LiveText and when you press the button on the iPad, LiveText should respond. Here is what the buttons do.
 
 **
-![LiveText_MIDI_figure004_proc](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/LiveText_MIDI_figure004_proc.jpg){: .alignright .wp-image-1492 }Load Previous/Next Page**: These buttons will load a page into the editing window of LiveText. They will not be displayed on output.
+![LiveText_MIDI_figure004_proc](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/LiveText_MIDI_figure004_proc.jpg){: .alignright .wp-image-1492 .medium }Load Previous/Next Page**: These buttons will load a page into the editing window of LiveText. They will not be displayed on output.
 
 **Send Page to Live**: This button will put the page currently loaded in the editor window into the live output.
 

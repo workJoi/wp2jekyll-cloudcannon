@@ -4,8 +4,8 @@ title: "IGN UK: Video Changes Way Editorial Team Works — And Thinks"
 date: 2015-10-20 00:00
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
-_blog-url: http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
+permalink: /blog-uk/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/10/20/ign-uk-video-changes-way-editorial-team-works-and-thinks/"
 comments: true
 categories: [Broadcast - Web, Customer Stories, TriCaster]
 tags: [Canon XF300, Canon XF305, Ianiro Florescent, IGN.com, TriCaster, Yamaha MG166-c]
@@ -32,17 +32,17 @@ The three-strong video production team has made clever use of limited studio spa
 
 It’s particularly important for IGN as the leader in its field to be first with the news – and to have it look professional. “We use the TriCaster to live-key the presenter into a background shot of the office. Our presenter, Rory, can do the whole thing himself – write the script, self-shoot, edit and upload – so that a video of a breaking news story is online within 30 minutes of us receiving it. We couldn’t do this without the TriCaster,” says Rich.
 
-![NEWTEK-IGN-STILL-34](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-34.jpg){: .aligncenter .wp-image-1516 }
+![NEWTEK-IGN-STILL-34](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-34.jpg){: .aligncenter .wp-image-1516 .medium }
 
-![NEWTEK-IGN-STILL-19](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-19.jpg){: .aligncenter .wp-image-1517 }
+![NEWTEK-IGN-STILL-19](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-19.jpg){: .aligncenter .wp-image-1517 .medium }
 
-![NEWTEK-IGN-STILL-29](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-29.jpg){: .aligncenter .wp-image-1518 }
+![NEWTEK-IGN-STILL-29](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-29.jpg){: .aligncenter .wp-image-1518 .medium }
 
-![NEWTEK-IGN-STILL-1](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-1.jpg){: .aligncenter .wp-image-1519 }
+![NEWTEK-IGN-STILL-1](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-1.jpg){: .aligncenter .wp-image-1519 .medium }
 
-![NEWTEK-IGN-STILL-24](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-24.jpg){: .aligncenter .wp-image-1520 }
+![NEWTEK-IGN-STILL-24](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-24.jpg){: .aligncenter .wp-image-1520 .medium }
 
-![NEWTEK-IGN-STILL-27](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-27.jpg){: .aligncenter .wp-image-1521 }
+![NEWTEK-IGN-STILL-27](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/10/NEWTEK-IGN-STILL-27.jpg){: .aligncenter .wp-image-1521 .medium }
 
  
 

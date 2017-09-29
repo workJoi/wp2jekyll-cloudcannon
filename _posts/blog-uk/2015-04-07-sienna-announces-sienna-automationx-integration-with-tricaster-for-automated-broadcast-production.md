@@ -4,8 +4,8 @@ title: "Sienna Announces Sienna AutomationX Integration with TriCaster for Autom
 date: 2015-04-07 14:16
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
-_blog-url: http://blog.uk.newtek.com/blog/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
+permalink: /blog-uk/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/04/07/sienna-announces-sienna-automationx-integration-with-tricaster-for-automated-broadcast-production/"
 comments: true
 categories: [Broadcast - Traditional, Broadcast - Web, NewTek Developer Network, TriCaster]
 tags: [automated production, broadcast, Live Production, news production, newsroom automation, TriCaster]

@@ -4,8 +4,8 @@ title: "The Low Cost 3-Camera Production Recipe"
 date: 2015-09-16 16:31
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/09/16/the-low-cost-3-camera-production-recipe/
-_blog-url: http://blog.uk.newtek.com/blog/2015/09/16/the-low-cost-3-camera-production-recipe/
+permalink: /blog-uk/2015/09/16/the-low-cost-3-camera-production-recipe/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/09/16/the-low-cost-3-camera-production-recipe/"
 comments: true
 categories: [Corporate Video, Live Production, TriCaster]
 tags: [3 Camera, Canon, Digital Transitions, Genaray, Green Screen, HDMI, Lighting, Low Cost, Multi Camera, Remote Camera Head, TriCaster Mini, Tripod, Video Cameras]
@@ -86,7 +86,7 @@ Of lights, stands and power cables – here’s what you need.  For low-cost fi
 <table border="0" width="100%" cellspacing="0" cellpadding="30" bgcolor="#EEEEEE">
 <tbody>
 <tr>
-<td align="center" valign="middle">![Two views of the Genaray SpectroLED Studio 500 BiColor instrument.  The front shows the double array of LED bulbs that allow for either of color temperatures (outdoor or indoor) to be selected.  The rear view shows the selection and dimmer controls and reveals a 12V battery power jack.  Take this baby out to the streets!](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/Low-Cost-3-Camera-Shoot-4.jpg){: .aligncenter .size-full .wp-image-1450 }
+<td align="center" valign="middle">![Two views of the Genaray SpectroLED Studio 500 BiColor instrument.  The front shows the double array of LED bulbs that allow for either of color temperatures (outdoor or indoor) to be selected.  The rear view shows the selection and dimmer controls and reveals a 12V battery power jack.  Take this baby out to the streets!](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/Low-Cost-3-Camera-Shoot-4.jpg){: .aligncenter .size-full .wp-image-1450 .medium }
 
 
 *Two views of the Genaray SpectroLED Studio 500 BiColor instrument. The front shows the double array of LED bulbs that allow for either of color temperatures (outdoor or indoor) to be selected. The rear view shows the selection and dimmer controls and reveals a 12V battery power jack. Take this baby out to the streets!*

@@ -4,8 +4,8 @@ title: "TWiT TV, Web Streaming Pioneer, Grows Big by Going Lean"
 date: 2015-09-16 17:07
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/09/16/twit-tv-web-streaming-pioneer-grows-big-by-going-lean/
-_blog-url: http://blog.uk.newtek.com/blog/2015/09/16/twit-tv-web-streaming-pioneer-grows-big-by-going-lean/
+permalink: /blog-uk/2015/09/16/twit-tv-web-streaming-pioneer-grows-big-by-going-lean/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/09/16/twit-tv-web-streaming-pioneer-grows-big-by-going-lean/"
 comments: true
 categories: [Broadcast - Web, Customer Stories, Live Production, TriCaster]
 tags: [Apple TV, Bitgravity, CacheFly, Canon Vixia HF G10, Flosoft, John Slanina, KinoFlo Parabeam, Leo LaPorte, Omnia audio, Premiere Radio Networks, Roku, Screen Savers, Telos Xstream, This Week in Tech, TriCaster 8000, TWiT Brick House, TWiT.TV, Ustream, Vaddio ClearVIEW HD-19]

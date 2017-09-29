@@ -4,8 +4,8 @@ title: "How Marel Uses Video To Engage Global Employees"
 date: 2015-10-27 00:00
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/
-_blog-url: http://blog.uk.newtek.com/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/
+permalink: /blog-uk/2015/10/27/how-marel-uses-video-to-engage-global-employees/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/10/27/how-marel-uses-video-to-engage-global-employees/"
 comments: true
 categories: [Corporate Video, Customer Stories, TriCaster]
 tags: [Corporate Meetings, Corporate Production, Corporate Training, Corporate Video, Green Screen, TriCaster, Virtual Sets]

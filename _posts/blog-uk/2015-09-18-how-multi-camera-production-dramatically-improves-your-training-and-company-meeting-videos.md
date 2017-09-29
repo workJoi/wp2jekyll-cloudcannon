@@ -4,8 +4,8 @@ title: "How Multi-Camera Production Dramatically Improves Your Training and Comp
 date: 2015-09-18 00:00
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
-_blog-url: http://blog.uk.newtek.com/blog/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
+permalink: /blog-uk/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/09/18/how-multi-camera-production-dramatically-improves-your-training-and-company-meeting-videos/"
 comments: true
 categories: [Corporate Video, Live Production, Multi Camera, TriCaster]
 tags: [Corporate Meetings, Corporate Training, Corporate Video, Live Production, Multi Camera, TriCaster]
@@ -32,7 +32,7 @@ Even if you only have a single presenter, having multiple cameras allows for a v
 
 Multi-camera also saves large amounts of post-production effort: and effort translates to MONEY. Post production can be more expensive than production. It can also be the cause for long delays because of the extended schedules that post-production require. Multi-camera production means that you can deliver your content immediately – even LIVE – without any additional cost, personnel, resources or deadline extensions.
 
-![8000-image-big-thumb](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/8000-image-big-thumb.jpg){: . .size-full .wp-image-1463 .alignleft }
+![8000-image-big-thumb](https://233b1d13b450eb6b33b4-ac2a33202ef9b63045cbb3afca178df8.ssl.cf1.rackcdn.com/2015/09/8000-image-big-thumb.jpg){: . .size-full .wp-image-1463 .alignleft .medium }
 
 To produce multi-camera work without post production means the use of a switcher. Luckily the days when switchers cost hundreds of thousands of dollars are long past. Now, inexpensive and easy-to-use multi-camera switching solutions are available from a number of sources including NewTek.
 

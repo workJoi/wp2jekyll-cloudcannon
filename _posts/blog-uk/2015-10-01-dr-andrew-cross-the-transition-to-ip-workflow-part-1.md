@@ -4,8 +4,8 @@ title: "Dr. Andrew Cross: The Transition to IP Workflow (Part 1)"
 date: 2015-10-01 00:00
 author: jjohnston
 published: true
-permalink: http://blog.uk.newtek.com/blog/2015/10/01/dr-andrew-cross-the-transition-to-ip-workflow-part-1/
-_blog-url: http://blog.uk.newtek.com/blog/2015/10/01/dr-andrew-cross-the-transition-to-ip-workflow-part-1/
+permalink: /blog-uk/2015/10/01/dr-andrew-cross-the-transition-to-ip-workflow-part-1/
+_blog-url: "http://blog.uk.newtek.com/blog/2015/10/01/dr-andrew-cross-the-transition-to-ip-workflow-part-1/"
 comments: true
 categories: [3Play, Broadcast - Traditional, Broadcast - Web, IP Workflow, Live Production Tips, NewTek Developer Network, Popular Stories, TriCaster]
 tags: [Advanced IP Workflow, Andrew Cross, broadcast, IP Workflow, Live Production]
